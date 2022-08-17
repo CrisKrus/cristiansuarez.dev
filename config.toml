@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://cristiansuarez.dev/"
+languageCode = "es-es"
+title = "Personal website and blog"
 theme = "PaperMod"
+
+####### PAPERMOD #######
+paginate = 5
