@@ -1,7 +1,0 @@
-baseURL = "http://cristiansuarez.dev/"
-languageCode = "es-es"
-title = "Personal website and blog"
-theme = "PaperMod"
-
-####### PAPERMOD #######
-paginate = 5
