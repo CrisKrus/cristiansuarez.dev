@@ -131,13 +131,17 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: categorias
       url: /categories/
       weight: 10
     - identifier: archivo
       name: archivo
       url: /archive/
       weight: 30
+    - identifier: frases
+      name: frases
+      url: /quotes/
+      weight: 40
 #    - identifier: buscar
 #      name: buscar
 #      url: /search/
