@@ -100,9 +100,9 @@ params:
     # - name: discord
     #   url: ""
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+   analytics:
+     google:
+       SiteVerificationTag: "G-XJEZMMFYBD"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
