@@ -130,17 +130,21 @@ params:
     keys: [ "title", "permalink", "summary", "content" ]
 menu:
   main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 5
     - identifier: categories
-      name: categorias
+      name: Categorias
       url: /categories/
       weight: 10
     - identifier: archivo
-      name: archivo
+      name: Archivo
       url: /archive/
       weight: 30
-    - identifier: frases
-      name: frases
-      url: /quotes/
+    - identifier: charlas
+      name: Charlas
+      url: /talks/
       weight: 40
 #    - identifier: buscar
 #      name: buscar
