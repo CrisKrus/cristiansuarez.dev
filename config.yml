@@ -134,18 +134,18 @@ menu:
       name: About
       url: /about/
       weight: 5
+    - identifier: charlas
+      name: Charlas
+      url: /talks/
+      weight: 10
     - identifier: categories
       name: Categorias
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: archivo
       name: Archivo
       url: /archive/
       weight: 30
-    - identifier: charlas
-      name: Charlas
-      url: /talks/
-      weight: 40
 #    - identifier: buscar
 #      name: buscar
 #      url: /search/
