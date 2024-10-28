@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45 
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -89,8 +89,8 @@ params:
       url: "https://www.instagram.com/cristian_suarez_dev/"
     - name: buymeacoffee
       url: "https://www.buymeacoffee.com/cristianSuarez"
-    # - name: linkedin
-    #   url: ""
+    - name: linkedin
+      url: "https://www.linkedin.com/in/cristian-suarez-vera/"
     # - name: paypal
     #   url: ""
     # - name: telegram
