@@ -1,5 +1,5 @@
 baseURL: "https://cristiansuarez.dev"
-title: Cristian Suarez Dev Blog
+title: The Flip Flop Developer
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Cristian Suarez Dev Blog
-  description: "Blog dónde encontrarás artículos sobre múltiples temáticas que me resultan interesantes, sobre todo relacionadas con la informática."
+  title: The Flip Flop Developer
+  description: "Bienvenido a mi blog."
   keywords: [ Blog, Portfolio ]
   author: "Cristian Suarez Dev"
   # author: ["Me", "You"] # multiple authors
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hola \U0001F44B"
-    Content: Bienvenido a mi blog dónde encontrarás artículos sobre múltiples temáticas que me resultan interesantes, sobre todo relacionadas con la informática.
+    Title: "El desarrollador en cholas \U0001F44B"
+    Content: Bienvenido a mi blog.
 
   socialIcons:
     - name: twitter
