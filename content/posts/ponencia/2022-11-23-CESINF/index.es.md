@@ -1,5 +1,6 @@
 ---
 title: "CESINF 2022"
+slug: "cesinf-2022"
 date: 2022-11-23T00:00:00.000Z
 draft: false
 hideLastModified: false

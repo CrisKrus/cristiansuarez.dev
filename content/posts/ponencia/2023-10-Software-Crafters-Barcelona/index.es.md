@@ -1,5 +1,6 @@
 ---
 title: "Software Crafter Barcelona 23"
+slug: "software-crafter-barcelona-23"
 date: 2023-10-23T00:00:00.000Z
 draft: false
 hideLastModified: false

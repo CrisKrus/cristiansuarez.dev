@@ -1,5 +1,6 @@
 ---
 title: "Gráficas de distribución"
+slug: "graficas-de-distribucion"
 date: 2021-08-24T00:00:00.000Z
 draft: false
 hideLastModified: false

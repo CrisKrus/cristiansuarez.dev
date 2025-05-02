@@ -1,5 +1,6 @@
 ---
 title: "Este mundo no es en blanco y negro"
+slug: "este-mundo-no-es-en-blanco-y-negro"
 date: 2021-08-06T00:00:07.000Z
 draft: false
 hideLastModified: false
