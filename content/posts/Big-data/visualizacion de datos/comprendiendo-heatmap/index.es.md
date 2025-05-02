@@ -1,5 +1,6 @@
 ---
 title: "Comprendiendo los heatmap (mapa de calor)"
+slug: "comprendiendo-los-heatmap-mapa-de-calor"
 date: 2021-04-20T00:00:07.000Z
 draft: false
 hideLastModified: false

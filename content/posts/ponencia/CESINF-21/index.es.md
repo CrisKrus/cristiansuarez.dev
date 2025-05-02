@@ -1,5 +1,6 @@
 ---
 title: "CESINF 2021 - Código sostenible"
+slug: "cesinf-2021-codigo-sostenible"
 date: 2021-12-02T00:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,5 +1,6 @@
 ---
 title: "Conceptos básicos"
+slug: "conceptos-basicos"
 date: 2021-02-15T00:00:01.000Z
 draft: false
 hideLastModified: false

@@ -1,5 +1,6 @@
 ---
 title: "Optimización de imágenes"
+slug: "optimizacion-de-imagenes"
 date: 2021-02-15T00:00:04.000Z
 draft: false
 hideLastModified: false

@@ -1,5 +1,6 @@
 ---
 title: "pipenv VS venv"
+slug: "pipenv-vs-venv"
 date: 2021-10-14T00:00:00.000Z
 draft: false
 hideLastModified: false

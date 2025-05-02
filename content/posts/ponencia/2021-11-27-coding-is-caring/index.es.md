@@ -1,5 +1,6 @@
 ---
 title: "He participado en coding is caring"
+slug: "he-participado-en-coding-is-caring"
 date: 2021-10-31T00:00:00.000Z
 draft: false
 hideLastModified: false

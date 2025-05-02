@@ -1,5 +1,6 @@
 ---
 title: "Trabaja con Docker sin el terminal"
+slug: "trabaja-con-docker-sin-el-terminal"
 date: 2021-03-20T00:00:00.000Z
 draft: false
 hideLastModified: false
