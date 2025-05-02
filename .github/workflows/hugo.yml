@@ -58,6 +58,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
+        if: ${{ success() && always() }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
@@ -73,3 +74,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact: ${{ steps.build.outputs.artifact }}
