@@ -1,5 +1,5 @@
 ---
-title: "Como liberarnos nosotros y asesorar a los demas"
+title: "Comó liberarnos nosotros y asesorar a los demás"
 slug: "como-liberarnos-nosotros-y-asesorar-a-los-demas"
 date: 2019-01-08T00:00:00.000Z
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "He participado en mí primer Datathon"
+title: "He participado en mi primer Datathon"
 slug: "he-participado-en-mi-primer-datathon"
 date: 2021-09-26T00:00:00.000Z
 draft: false
@@ -13,7 +13,7 @@ El pasado día 17 de septiembre participé en mi primer datathon y, ciertamente,
 
 Antes de este evento había participado en otro tipo de hackathones dónde tienes una serie de ideas (proyectos) y ciertos recursos. Con esto y un tiempo limitado (un fin de semana normalmente) tienes que desarrollar la idea en cuestión y traerla a la vida.
 
-En este tipo de eventos no se espera que termines con una aplicación funcionando que puedas sacar al mercado. Lo que se busca en este tipo de eventos es hacer algo que sea una prueba de concepto a ver que limitaciones tienen las ideas y hasta dónde se puede llegar y si te gusta la idea y el proyecto poder seguir con él por tu cuenta.
+En este tipo de eventos no se espera que termines con una aplicación funcionando que puedas sacar al mercado. Lo que se busca en este tipo de eventos es hacer algo que sea una prueba de concepto a ver qué limitaciones tienen las ideas y hasta dónde se puede llegar y si te gusta la idea y el proyecto poder seguir con él por tu cuenta.
 
 En este caso era un hackathon referente a los datos, de ahí el nombre, **data**thon 😂 En este concretamente había dos proyectos.
 
@@ -49,7 +49,7 @@ Y como pudo acabar si no...
 
 ## Conclusiones
 
-Finalmente nuestra solución no estuvo ni entre las tres primeras. Yo no pude estar el día de la presentación y no sé que han dicho sobre nuestra propuesta, pero no me sorprende el resultado.
+Finalmente, nuestra solución no estuvo ni entre las tres primeras. Yo no pude estar el día de la presentación y no sé qué han dicho sobre nuestra propuesta, pero no me sorprende el resultado.
 
 A día de hoy 20 de diciembre de 2021 unos cuantos meses más tarde de la finalización del evento sigo esperando por el supuesto documento dónde nos dirían que puntos han tenido en cuenta para valorar nuestra propuesta y por qué no ha sido premiada. Este punto es el que más tengo que recriminar a la organización 😤
 

@@ -1,5 +1,5 @@
 ---
-title: "La conexion con uno mismo a traves de la compasion"
+title: "La conexión con uno mismo a través de la compasión"
 slug: "la-conexion-con-uno-mismo-a-traves-de-la-compasion"
 date: 2019-01-02T00:00:00.000Z
 draft: false
@@ -37,7 +37,7 @@ Recompensas
   Cuando actuamos estamos buscando de alguna forma una recompensa, bien puede
   ser __dinero__ o simplemente conseguir la __aprobación__. En el segundo caso
   ocurre porque en nuestra cultura nos han inculcado que con cada "buena" acción
-  obtendremos una "recompensa". De niños nos han ensñado que después de una
+  obtendremos una "recompensa". De niños nos han enseñado que después de una
   acción "buena" nos responderán con un "eres un buen niño" y una sonrisa, esto
   hace que de adultos seamos adictos a ello y nos engañemos creyendo que la vida
   consiste en obtener recompensas por cada cosa que hagamos. Con ello hacemos

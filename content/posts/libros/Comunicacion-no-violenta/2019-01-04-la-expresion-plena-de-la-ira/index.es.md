@@ -1,5 +1,5 @@
 ---
-title: "La expresion plena de la ira"
+title: "La expresión plena de la ira"
 slug: "la-expresion-plena-de-la-ira"
 date: 2019-01-04T00:00:00.000Z
 draft: false
@@ -9,7 +9,7 @@ categories: [libros, comunicación no violenta]
 ---
 
   Para expresar la __ira__ con la comunicación no violenta tenemos que
-  desconectar de los demás la responsabilidad de que  nosotros estemos furiosos.
+  desconectar de los demás la responsabilidad de que nosotros estemos furiosos.
   Es decir tenemos que eliminar ideas de nuestra cabeza tales como: "Él o ella
   me hizo que me pusiera furioso cuando hizo esto otro" Nunca nos enfadamos por
   lo que hizo la otra persona, lo que la persona haya hecho es solo un estímulo

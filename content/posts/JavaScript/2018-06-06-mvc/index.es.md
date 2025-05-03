@@ -15,27 +15,6 @@ Title 1
   reutilizamos el codigo, este enfoque es muy de los años ochenta.
   
   Cuando trabajamos es mejor si lo hacemos con objetos propios
+  de nuestro dominio. En vez de usar objetos del lenguaje, como arrays o
+  strings.
 
-Title 2
---------------------------------------------------------------------------------
-
-  Now I'll put some code here:
-  
-  ``````````````````````````````````````````````````````````````````````````````
-  let text = 'Hello World!';
-  return text;
-  ``````````````````````````````````````````````````````````````````````````````
-  
-  This is about [javaScript]
-
-References
---------------------------------------------------------------------------------
-
-* [Video original][original-video]
-* [Java Script][javaScript]
-
-
-<!-- All links here --> 
-
-[original-video]: https://www.youtube.com/watch?v=hRIU7463Ifo
-[javaScript]: https://www.javascript.com/

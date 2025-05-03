@@ -1,5 +1,5 @@
 ---
-title: "Expresar agradecimiento mediante la comunicacion no violenta"
+title: "Expresar agradecimiento mediante la comunicación no violenta"
 slug: "expresar-agradecimiento-mediante-la-comunicacion-no-violenta"
 date: 2019-01-09T00:00:00.000Z
 draft: false
@@ -38,8 +38,8 @@ Los tres componentes del agradecimiento
 2. Las __necesidades__ concretas que han quedado resueltas o satisfechas
 3. Los __sentimientos__ que tenemos como resultado de la satisfacción
 
-  A la hora de __usar__ estos tres componentes no tiene porque ser en este orden
-  específico incluso aveces, basta con un simple "Gracias" o una sonrisa. Sin
+  A la hora de __usar__ estos tres componentes no tiene por qué ser en este orden
+  específico incluso a veces, basta con un simple "Gracias" o una sonrisa. Sin
   embargo, si queremos estar seguros de que nuestro __agradecimiento__ lo han
   recibido por completo, es valioso que lo desarrollemos con la elocuencia
   necesaria.
@@ -67,8 +67,8 @@ El hambre de elogios
 
   Una vez alguien me hizo un símil que representa esto y decía así. "Después de
   un día andando por la calle __98__ personas te dan un abrazo por haberles
-  ayudado en sus vidas. Y por otro lado __2__ te dan un bofetón en la cara
-  porque esas acciones les han hecho mal. Al final del día en tú cabeza
+  ayudado en sus vidas. Y, por otro lado, __2__ te dan un bofetón en la cara
+  porque esas acciones les han hecho mal. Al final del día en tu cabeza
   recuerdas esos dos últimos, les prestas toda la importancia y olvidarás los 98
-  anteriores." Y suena duro y feo pero es la realidad en la mayoría de casos.
+  anteriores." Y suena duro y feo, pero es la realidad en la mayoría de casos.
 
