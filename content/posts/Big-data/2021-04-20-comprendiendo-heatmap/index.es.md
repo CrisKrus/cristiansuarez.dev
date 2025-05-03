@@ -1,58 +1,56 @@
 ---
-title: "¿Qué son las series y los dataframes? Librería Pandas"
-slug: "que-son-las-series-y-los-dataframes-libreria-pandas"
-date: 2021-05-10T00:00:00.000Z
+title: "Comprendiendo los heatmap (mapa de calor)"
+slug: "comprendiendo-los-heatmap-mapa-de-calor"
+date: 2021-04-20T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [big data]
-summaryImage: "summary.png"
+categories: [visualización de datos]
+summaryImage: "hetmap-game-sales.png"
 ---
 
-[Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) es la librería más usada en el mundo del big data si trabajamos con Python. Esta librería tiene unas entidades propias para gestionar los datos las cuales son similares a las que ya existen en el lenguaje. Esto me ha llamado la atención y es por ello que he investigado cuales son las principales diferencias entre las listas de una y dos dimensiones respecto a las series y dataframes.
+Este tipo de gráfico, mapa de calor, es muy útil a la hora de comparar valores
+numéricos de una relación. Es decir, si por ejemplo tenemos las ventas de
+videojuegos clasificadas por plataforma y año como se muestra a continuación
 
-## Listas y series
+| Plataforma| Año| Ventas|
+--- | --- | ---
+|Wii|2000|100|
+|Wii|2001|150|
+|Wii|2002|50|
+|DS|2000|98|
+|DS|2001|118|
+|DS|2002|134|
 
-Por orden de complejidad lo primero que veremos son las listas de python (arrays) y las [series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html) provenientes de pandas.
+---
 
-Las listas en python es un objeto el cual contiene cualquier tipo de dato dentro en un orden. Como su nombre indica tenemos una lista de elementos de la siguiente forma:
+Si esta tabla de datos fuera mucho mayor con cientos de miles de entradas sería bastante complicado hacer una comparación de sus datos con otro tipo de gráficas. Con el mapa de calor podremos hacer un eje de coordenadas como si de un mapa de hundir la flota se tratase. Dónde, en los ejes en lugar de letras y números tengamos el nombre de la plataforma y el año en el que ocurren las ventas.
+
+Y luego dentro de este mapa pondremos los valores que corresponda a cada intersección. La parte interesante viene ahora, este mapa además colorea con un degradado todas las casillas de tal manera que las que tengan un valor mayor sea de un color más intenso y las de menor valor de un tono más claro.
+
+Con esto lo que logramos es ver patrones más fácilmente de momentos en los que han habido muchas ventas.
+
+Te dejo un ejemplo a continuación
+
+![mapa de calor ventas por plataformas.png](hetmap-game-sales.png)
+
+Como puedes ver en la imágen anterior la Play 1 tuvo su pico de ventas en 1998. También podemos ver como entre 2008 y 2012 hubo un gran numero de ventas repartido entre diferentes plataformas.
+
+Para poder crear este tipo de gráficos con la librería [Seaborn](https://seaborn.pydata.org/index.html) en [Python](https://www.python.org/) necesitaremos que los datos que los datos estén formateados de tal manera que las cabeceras sean uno de los ejes y los índices el otro. Estos dos son los únicos datos que pueden no ser numéricos el resto debe de serlo.
+
+El conjunto de datos (*dataset*) que usaremos tendrá la siguiente forma:
+
+|  | 2000| 2001| 2002|
+--- | --- | --- | ---
+|Wii|100|250|50|
+|DS|98|118|2002|
 
 ```python
-lista = [0, 1, 'dos', 'tres', 12]
+import seaborn as sns
+
+heatmap_data = create_data_frame_with_sales_per_year_and_platforms(data)
+ax = sns.heatmap(heatmap_data, annot=True)
 ```
 
-Como has podido observar esta lista no tiene porque ser de elementos de un mismo tipo. En el ejemplo se puede ver como mezclamos números enteros y cadenas de texto. Esta es la primera de las diferencias con las series, en estas últimas los elementos que contienen han de ser siempre del  mismo tipo.
+---
 
-Esta es una de sus características principales debido a que una serie se puede considerar como una columna de un conjunto de datos la cual siempre ha de ser del mismo tipo. Por ejemplo, si consideramos la columna nombre en un conjunto de datos esta siempre ha de ser una cadena de texto.
-
-Además de esto, las series tienen un índice el cual puede ser no numérico y lo podremos definir explícitamente.
-
-```python
-d = {'a': 1, 'b': 2, 'c': 3}
-ser = pd.Series(data=d, index=['a', 'b', 'c'])
-ser
-# a   1
-# b   2
-# c   3
-# dtype: int64
-```
-
-Como vemos en este ejemplo definimos un mapa `d` el cual usaremos para crear nuestra serie y luego le indicaremos cuales serán los índices del resultado. De esta forma podremos acceder a los datos de la serie de forma más "cómoda" con el nombre que le hemos dado a los índices. En el caso de las listas nativas de Python estos índices van definidos por el orden en el que se encuentran partiendo desde cero. Esto mismo nos pasará en las series si no definimos índices.
-
-## Listas de dos dimensiones y dataframes
-
-Una vez hemos comprendido en el apartado anterior las diferencias entre listas y series podremos ver con mayor facilidad en que difieren las listas de dos dimensiones y los dataframe ya que, estos son un conjunto de los anteriores.
-
-Al igual que en el caso ya visto, una lista de dos dimensiones nativa de Python puede contener cualquer tipo de dato en su interior: números enteros, cadenas de texto ¡o incluso otras listas! sin embargo, un [data frame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) dentro contiene únicamente series. Por esta razón, los datos dentro de un data frame tienen un tipo por cada columna (serie)
-
-```python
-d = {'col1': [1, 2], 'col2': [3, 4]}
-df = pd.DataFrame(data=d)
-df
-#    col1  col2
-# 0     1     3
-# 1     2     4
-df.dtypes
-# col1    int64
-# col2    int64
-# dtype: object
-```
+Este ejemplo ha salido de las sesiones que he hecho en directo aprendiendo visualización de datos. Puedes ver las sesiones grabadas [en youtube](https://www.youtube.com/playlist?list=PLZh1qmaTeQ-qvyJ9GOLNEwESIGTQdHAoI) o en directo por [Twitch](https://www.twitch.tv/cristian_suarez_dev) además subo a [github](http://bit.ly/cristian-suarez-github) todo los ejercicios que vamos haciendo y los apuntes.
