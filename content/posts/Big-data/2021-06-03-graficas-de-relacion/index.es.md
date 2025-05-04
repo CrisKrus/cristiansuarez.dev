@@ -5,7 +5,7 @@ date: 2021-06-03T00:00:00.000Z
 draft: false
 hideLastModified: false
 categories: [big data, visualización de datos]
-summaryImage: "Untitled.png"
+summaryImage: "resources/untitled.png"
 ---
 
 Cuando nos enfrentamos a un conjunto de datos nuestro cerebro intenta crear relaciones entre los distintos conjuntos. Esto es normal, ya que como seres humanos que somos, siempre intentamos buscar una relación, es la forma que tenemos de asociar acciones. Si bebo agua me quita la sed, a mayor número de ventas de videojuegos en una consola más popular es ¿o no?
@@ -16,7 +16,7 @@ Estas relaciones que buscamos inconscientemente pueden tener o no sentido y es a
 
 Este gráfico presenta su fuerte cuando se trata de agrupar por valores categóricos y comparar sus valores numéricos como puede ser, ventas de juegos por categorías de los mismos.
 
-![Untitled.png](Untitled.png)
+![Untitled.png](resources/untitled.png)
 
 El gráfico anterior parece sencillo de hacer, pero si no te percatas de algunas características puedes caer en ciertos errores típicos.
 
@@ -26,19 +26,19 @@ El gráfico anterior parece sencillo de hacer, pero si no te percatas de algunas
 4. **Incluir anotaciones de valores**. Como podemos ver en el ejemplo cada barra tiene su valor exacto. Esto puede resultar útil sobre todo, cuando dos de ellas están prácticamente en el mismo punto y difícilmente podemos ver la diferencia o simplemente este valor nos es útil, que también puede darse el caso.
 5. **Voltear el gráfico si son muchos valores**. Existe un caso en el que voltear el gráfico tiene sentido, cuando tenemos tantos valores por los que clasificar que se solaparían entre sí. En estos casos es casi obligatorio cambiar la posición de los valores como mostramos a continuación.
 
-![Untitled1.png](Untitled-1.png)
+![Untitled1.png](resources/untitled-1.png)
 
 ## Gráfico de puntos (Scatter plot)
 
 En este caso el gráfico de puntos es más interesante si nos encontramos con dos variables de tipo numérico a diferencia del caso anterior dónde uno de los valores a comparar era de tipo categórico. Como todos los gráficos de este artículo será de utilidad a la hora de comprobar relaciones entre datos de nuestro conjunto. Por ejemplo, podemos ver si existe una relación entre la cantidad de accidentes de tráfico y la velocidad a la que iba el vehículo.
 
-![Untitled-2.png](Untitled-2.png)
+![Untitled-2.png](resources/untitled-2.png)
 
 Un punto a destacar interesante de este tipo de gráficos es que **nos permite añadir una tercera variable categórica** a tener en cuenta.
 
 Por ejemplo, si queremos comprobar si existe relación entre el peso, la altura y el género de un bebé recién nacido podremos hacerlo de la siguiente forma.
 
-![Untitled-3.png](Untitled-3.png)
+![Untitled-3.png](resources/untitled-3.png)
 
 Como podemos ver estas gráficas **nos ayudan a ver una correlación entre los datos**, pero tenemos que tener cuidado porque nuestras interpretaciones pueden estar equivocadas. Podemos estar viendo una relación clara que está ahí por causa de otro campo de nuestros datos.
 
@@ -56,11 +56,11 @@ En el ejemplo anterior de los bebés que han nacido con cierto peso y altura si 
 
 Otra opción es darle un **tamaño distinto** a los puntos en función de las repeticiones que tenga, por ejemplo.
 
-![Untitled-4.png](Untitled-4.png)
+![Untitled-4.png](resources/untitled-4.png)
 
 O un **degradado** de los mismos.
 
-![Untitled-5.png](Untitled-5.png)
+![Untitled-5.png](resources/untitled-5.png)
 
 Aunque llegados a este punto puede que nos interese más usar un [mapa de calor 👀](https://criskrus.com/blog/comprendiendo-los-heatmap-mapa-de-calor/)
 
@@ -70,11 +70,11 @@ De igual forma, si el valor exacto no nos es tan importante como la relación en
 
 Este último tipo de gráficos resulta de gran utilidad cuando queremos tener un gráfico de puntos, pero **uno de nuestros ejes no es numérico** como por ejemplo, la cuenta total de las mesas de un restaurante según el día de la semana.
 
-![Untitled-6.png](Untitled-6.png)
+![Untitled-6.png](resources/untitled-6.png)
 
 Si no aplicamos **jitter** nos queda de esta forma, el jitter no es más que la separación de la que hablábamos antes. Aplicando esta separación quedaría de la siguiente forma.
 
-![Untitled-7.png](Untitled-7.png)
+![Untitled-7.png](resources/untitled-7.png)
 
 ## Recursos
 

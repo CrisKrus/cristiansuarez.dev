@@ -5,7 +5,7 @@ date: 2021-04-20T00:00:07.000Z
 draft: false
 hideLastModified: false
 categories: [big data, visualización de datos]
-summaryImage: "hetmap-game-sales.png"
+summaryImage: "heatmap-game-sales.png"
 ---
 
 Este tipo de gráfico, mapa de calor, es muy útil a la hora de comparar valores
@@ -31,7 +31,7 @@ Con esto lo que logramos es ver patrones más fácilmente de momentos en los que
 
 Te dejo un ejemplo a continuación
 
-![mapa de calor ventas por plataformas.png](hetmap-game-sales.png)
+![mapa de calor ventas por plataformas.png](resources/heatmap-game-sales.png)
 
 Como puedes ver en la imágen anterior la Play 1 tuvo su pico de ventas en 1998. También podemos ver como entre 2008 y 2012 hubo un gran numero de ventas repartido entre diferentes plataformas.
 

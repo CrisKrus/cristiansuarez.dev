@@ -54,4 +54,4 @@ Gracias a quienes participaron, aportaron, corrigieron y rieron conmigo durante 
 
 Dejo por aquí los recursos relacionados con el taller.
 
-- [Diapositivas](Sotware%20Crafters%20BCN%202023.pdf)
+- [Diapositivas](resources/sotware-crafters-bcn-2023.pdf)

@@ -5,7 +5,7 @@ date: 2021-05-20T00:00:00.000Z
 draft: false
 hideLastModified: false
 categories: [reflexión]
-summaryImage: "resumen-en-datos.png"
+summaryImage: "resources/resumen-en-datos.png"
 ---
 
 Hace unos días una compañera me preguntó: ¿hey qué tal llevas eso de hablar solo? y pensé: "ostras, ha notado que estoy loco 😅" pero antes de que hablase me aclaró. Me refiero a los directos en [Twitch](https://www.twitch.tv/cristian_suarez_dev) y demás, ¿Qué tal vas?
@@ -30,7 +30,7 @@ Con estas ganas empecé un sábado 27 de febrero, con problemas, imprevistos, co
 
 No he anunciado nada estas sesiones y aún con estas me han encontrado tantas personas, gracias.
 
-![resumen primeros meses en datos](resumen-en-datos.png)
+![resumen primeros meses en datos](resources/resumen-en-datos.png)
 
 ## ¿Qué es lo que hago?
 

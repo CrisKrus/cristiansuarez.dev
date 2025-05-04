@@ -15,7 +15,7 @@ Si eres de esas personas que no le gusta mucho trabajar desde el terminal o, sim
 
 Para este editor existen dos extensiones que harán tú día a día con Docker mucho más cómodo. La primera de ellas tiene prácticamente todo lo que necesitas: auto completado, crear imágenes con tan solo hacer click derecho en un dockerfile y decirle que haga el build y la parte que más me gusta un panel dónde puedes gestionar todo, TODO 😲
 
-![00-vscode.png](00-vscode.png)
+![00-vscode.png](resources/00-vscode.png)
 
 Este panel se abre cuando pulsamos sobre la extension y podremos ver todos nuestros contenedores arrancados o parados. Las imágenes que tenemos localmente y sus diferentes etiquetas, volúmenes, redes y lo que más me gusta podremos hacer limpieza de manera cómoda y visual.
 
@@ -39,6 +39,6 @@ Si en tu caso usas el Intellij tengo buenas y no tan buenas noticias para ti. Ex
 
 Todo ello desde la pestaña de "servicios"
 
-![01-intellij.png](01-intellij.png)
+![01-intellij.png](resources/01-intellij.png)
 
 Y ahora es cuando te cuento la parte no tan buena... esta funcionalidad a día de hoy solo está disponible en la versión ultimate de este editor. Así que tendrás que tener una licencia para poder hacer uso de ella 🙄

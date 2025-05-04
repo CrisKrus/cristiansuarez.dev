@@ -5,7 +5,7 @@ date: 2021-04-30T00:00:07.000Z
 draft: false
 hideLastModified: false
 categories: [scrum, sesiones]
-summaryImage: "reunion.png"
+summaryImage: "resources/reunion.png"
 ---
 
 Hoy en día raro es el equipo en el que trabajamos y no usa las ceremonias "típicas", o alguna de ellas, provenientes del framework Scrum. Hablamos de reunión diaria, planificación del sprint, revisión del sprint, retrospectiva, etc. También conocidas en Inglés como *daily meeting, sprint planning, retrospective*, etc.
@@ -26,7 +26,7 @@ El objetivo de esta es llegar a la retro con una buena actitud. Para esto se pue
 
 De esta manera, todos conoceremos mejor cuál es el estado del resto y el equipo podrá hacer un ejercicio de empatía.
 
-![mesa redonda con sillas alrededor y una naranja](mesa.png)
+![mesa redonda con sillas alrededor y una naranja](resources/mesa.png)
 
 ## 2. Generar los datos
 
@@ -50,7 +50,7 @@ Es importante tener en cuenta que no debemos dar muchos puntos para repartir o l
 
 En este punto veremos los temas más votados y entre todos decidiremos acciones a tomar. Estas acciones son importante que sean lo más específicas posible. Por ejemplo, si decimos "mejorar los test automáticos" no queda claro cuál es el objetivo ni como lo abordaremos, esta acción puede interpretarse como mejorar la calidad de los test o aumentar la cobertura de test. Es por ello que sería mejor una acción más parecida a "aumentar la cobertura de test hasta el 80%", de esta forma queda claro, no hay espacio para interpretaciones y, por otro lado, es más fácil evaluar en la siguiente retrospectiva si hemos logrado los objetivos o no y porque. De esta forma dejaremos claro el plan de acción que vamos a seguir en lugar de quedarse en una declaración de intenciones.
 
-![personas en una mesa reunidas con un tablero de fondo con post-it de colores](reunion.png)
+![personas en una mesa reunidas con un tablero de fondo con post-it de colores](resources/reunion.png)
 
 ## 5. Cerrar la retrospectiva
 
@@ -64,7 +64,7 @@ NO es un punto para culpar y señalar a otras personas. De hecho es bueno dejar 
 
 NO es otra reunión más en la que hablar un rato y salir de ella igual que entramos. Es importante comprender el equipo e intentar mejorarlo.
 
-![mano señalando al lado derecho con el dedo índice](dedo.png)
+![mano señalando al lado derecho con el dedo índice](resources/dedo.png)
 
 ## Herramientas
 

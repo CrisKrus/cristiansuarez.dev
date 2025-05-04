@@ -13,7 +13,7 @@ categories: [ubuntu]
 Cambiar el mensaje del bash
 ================================================================================
 
-  Típicamente tu bash en linux tendrá la siguiente extructura
+  Típicamente tu bash en linux tendrá la siguiente estructura
 
 ```bash
 nombre-de-usuario@nombre-de-maquina/host:directorio-actual~$

@@ -14,7 +14,7 @@ En esta publicación les voy a contar como lo tengo configurado y como hago uso 
 
 Lo primero que suelo hacer cuando empiezo en un proyecto nuevo, es crear un "__cliente__". Este cliente es __para quien__ estamos haciendo el trabajo y luego, dentro de este cliente, voy añadiendo los proyectos internos en los que estoy metidos entre otras cosas.
 
-![resumen de proyectos](img.png)
+![resumen de proyectos](resources/img.png)
 
 Como puedes ver, en mi caso tengo dos clientes principales. Uno de ellos "Lean Mind" tengo solamente el proyecto "formación" y en el caso de Clientito, según el proyecto interno tengo varios proyectos, reuniones o simplemente tiempo que no sé muy bien como clasificar (otros).
 
@@ -36,15 +36,15 @@ Supongamos estoy creando un nuevo endpoint para obtener gatos.
 
 De esta forma me ayuda a ver si me he pasado de tiempo en la última sesión de "pomodoro".
 
-![horas dedicadas en una tarea concreta](img_1.png)
+![horas dedicadas en una tarea concreta](resources/img-1.png)
 
 Gestionar el tiempo de esta forma me es muy útil cada mañana cuando al sentarme en el PC voy a reportar las horas de trabajo. Digo que es útil porque me basta con ir a la parte de reportes en [Toggl] y buscar el tiempo que dediqué el ayer en Clientito y ponerlo en el excel o donde toque.
 
-![resumen diario de horas dedicadas](img_2.png)
+![resumen diario de horas dedicadas](resources/img-2.png)
 
 También me es muy útil para mirar las horas de formación que llevo esta semana o este mes y poder dedicarle más o menos tiempo. Por ejemplo esta semana dediqué 2 horas y 19 minutos en revisar grow, preparar un artículo nuevo sobre big data.
 
-![resumen semanal de un proyecto concreto](img_3.png)
+![resumen semanal de un proyecto concreto](resources/img-3.png)
 
 En mi caso me es útil para no volverme muy loco con el tiempo que le dedico a las cosas. Reviso de vez en cuando y actuar en consecuencia 😸. Además de, en cada reunión diaria o semanal saber decir en que he estado trabajando para no quedarme en blanco 😂
 
