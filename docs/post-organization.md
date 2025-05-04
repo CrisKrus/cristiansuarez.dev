@@ -49,7 +49,7 @@ content/
    - Ejemplo: `index.es.md` para español, `index.en.md` para inglés.
 
 4. **Recursos Asociados**:
-   - Los recursos del post (imágenes, archivos, etc.) se colocan en una subcarpeta `resources` dentro del directorio del post.
+   - Si el post tiene recursos asociados (imágenes, archivos, etc.), estos deben colocarse en una subcarpeta resources dentro del directorio del post. Si no hay recursos, no es necesario crear la subcarpeta resources.
 
 5. **Casos Especiales**:
    - Los archivos `about.md`, `archive.md` y `search.md` permanecen en sus ubicaciones actuales, ya que son gestionados por el tema PaperMod.

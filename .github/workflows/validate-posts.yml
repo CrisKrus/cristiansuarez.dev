@@ -1,0 +1,22 @@
+name: Validate Posts Structure
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    name: Validate Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Validation Script
+        run: |
+          chmod +x scripts/validate_posts.sh
+          ./scripts/validate_posts.sh
