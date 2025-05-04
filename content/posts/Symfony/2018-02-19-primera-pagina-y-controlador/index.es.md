@@ -1,6 +1,6 @@
 ---
 title: "Primera página y controlador"
-slug: "primera-pagina-y-controlador"
+slug: "symfony/primera-pagina-y-controlador"
 date: 2018-02-19T00:00:00.000Z
 draft: false
 hideLastModified: false

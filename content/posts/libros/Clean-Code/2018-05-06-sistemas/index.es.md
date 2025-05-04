@@ -1,6 +1,6 @@
 ---
 title: "Sistemas"
-slug: "sistemas"
+slug: "libros/sistemas"
 date: 2018-05-05T23:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "Roles dentro del big data"
-slug: "roles-dentro-del-big-data"
+slug: "big-data/roles-dentro-del-big-data"
 date: 2021-07-16T00:00:07.000Z
 draft: false
 hideLastModified: false

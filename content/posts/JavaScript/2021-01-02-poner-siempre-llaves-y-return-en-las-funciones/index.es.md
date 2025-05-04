@@ -1,6 +1,6 @@
 ---
 title: "Poner siempre llaves y return en las funciones"
-slug: "poner-siempre-llaves-y-return-en-las-funciones"
+slug: "javascript/poner-siempre-llaves-y-return-en-las-funciones"
 date: 2021-01-02T18:24:26.134Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "JUnit Internos"
-slug: "junit-internos"
+slug: "libros/junit-internos"
 date: 2018-06-09T23:00:00.000Z
 draft: false
 hideLastModified: false

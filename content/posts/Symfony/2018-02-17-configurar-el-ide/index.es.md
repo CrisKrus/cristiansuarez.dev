@@ -1,6 +1,6 @@
 ---
 title: "Configurar el IDE"
-slug: "configurar-el-ide"
+slug: "symfony/configurar-el-ide"
 date: 2018-02-17T00:00:00.000Z
 draft: false
 hideLastModified: false

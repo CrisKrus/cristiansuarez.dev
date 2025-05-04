@@ -1,6 +1,6 @@
 ---
 title: "Clases"
-slug: "clases"
+slug: "libros/clases"
 date: 2018-04-28T23:00:00.000Z
 draft: false
 hideLastModified: false

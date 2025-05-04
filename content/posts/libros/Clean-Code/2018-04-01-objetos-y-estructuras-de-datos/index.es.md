@@ -1,6 +1,6 @@
 ---
 title: "Objetos y estructuras de datos"
-slug: "objetos-y-estructuras-de-datos"
+slug: "libros/objetos-y-estructuras-de-datos"
 date: 2018-03-31T23:00:00.000Z
 draft: false
 hideLastModified: false

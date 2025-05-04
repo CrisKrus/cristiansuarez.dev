@@ -1,6 +1,6 @@
 ---
 title: "Concurrencia"
-slug: "concurrencia"
+slug: "libros/concurrencia"
 date: 2018-05-26T23:00:00.000Z
 draft: false
 hideLastModified: false

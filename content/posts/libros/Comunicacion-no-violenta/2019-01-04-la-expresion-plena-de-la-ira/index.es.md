@@ -1,6 +1,6 @@
 ---
 title: "La expresión plena de la ira"
-slug: "la-expresion-plena-de-la-ira"
+slug: "libros/la-expresion-plena-de-la-ira"
 date: 2019-01-04T00:00:00.000Z
 draft: false
 hideLastModified: false

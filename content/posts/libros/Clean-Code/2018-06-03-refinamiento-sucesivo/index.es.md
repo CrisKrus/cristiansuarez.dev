@@ -1,6 +1,6 @@
 ---
 title: "Refinamiento Sucesivo"
-slug: "refinamiento-sucesivo"
+slug: "libros/refinamiento-sucesivo"
 date: 2018-06-02T23:00:00.000Z
 draft: false
 hideLastModified: false

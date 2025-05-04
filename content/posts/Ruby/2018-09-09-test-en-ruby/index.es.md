@@ -1,6 +1,6 @@
 ---
 title: "Test en ruby"
-slug: "test-en-ruby"
+slug: "ruby/test-en-ruby"
 date: 2018-09-08T23:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "Porque me gustan los notebooks de Jupiter"
-slug: "porque-me-gustan-los-notebooks-de-jupiter"
+slug: "big-data/porque-me-gustan-los-notebooks-de-jupiter"
 date: 2021-05-19T00:00:00.000Z
 draft: false
 hideLastModified: false

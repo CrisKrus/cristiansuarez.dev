@@ -1,6 +1,6 @@
 ---
 title: "Olores del código: test"
-slug: "olores-del-codigo-test"
+slug: "libros/olores-del-codigo-test"
 date: 2018-07-14T23:00:00.000Z
 draft: false
 hideLastModified: false

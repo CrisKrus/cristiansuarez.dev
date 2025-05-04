@@ -1,6 +1,6 @@
 ---
 title: "Title 1"
-slug: "title-1"
+slug: "javascript/title-1"
 date: 2018-06-05T23:00:00.000Z
 draft: false
 hideLastModified: false

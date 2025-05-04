@@ -1,6 +1,6 @@
 ---
 title: "¿Qué puede mejorar de los Jupyter Notebooks?"
-slug: "que-puede-mejorar-de-los-jupyter-notebooks"
+slug: "big-data/que-puede-mejorar-de-los-jupyter-notebooks"
 date: 2022-01-26T00:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo funciona Docker?"
-slug: "como-funciona-docker"
+slug: "docker/como-funciona-docker"
 date: 2021-02-15T00:00:02.000Z
 draft: false
 hideLastModified: false

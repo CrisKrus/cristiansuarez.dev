@@ -1,6 +1,6 @@
 ---
 title: "Me presento"
-slug: "me-presento"
+slug: "reflexión/me-presento"
 date: 2018-02-11T00:00:00.000Z
 draft: false
 hideLastModified: false

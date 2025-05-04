@@ -1,6 +1,6 @@
 ---
 title: "¿Qué son las series y los dataframes? Librería Pandas"
-slug: "que-son-las-series-y-los-dataframes-libreria-pandas"
+slug: "big-data/que-son-las-series-y-los-dataframes-libreria-pandas"
 date: 2021-05-10T00:00:00.000Z
 draft: false
 hideLastModified: false

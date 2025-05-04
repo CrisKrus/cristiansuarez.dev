@@ -1,6 +1,6 @@
 ---
 title: "Node.js apps en Firebase"
-slug: "node-js-apps-en-firebase"
+slug: "firebase/node-js-apps-en-firebase"
 date: 2018-08-04T23:00:00.000Z
 draft: false
 hideLastModified: false

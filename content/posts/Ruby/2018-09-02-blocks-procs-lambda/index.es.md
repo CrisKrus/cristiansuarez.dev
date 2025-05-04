@@ -1,6 +1,6 @@
 ---
 title: "Blocks procs lambda"
-slug: "blocks-procs-lambda"
+slug: "ruby/blocks-procs-lambda"
 date: 2018-09-01T23:00:00.000Z
 draft: false
 hideLastModified: false

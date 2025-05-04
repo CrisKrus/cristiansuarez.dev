@@ -1,6 +1,6 @@
 ---
 title: "Prefacio"
-slug: "prefacio"
+slug: "libros/prefacio"
 date: 2018-03-01T00:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "Lo que pedimos a los demas para enriquecer nuestra vida"
-slug: "lo-que-pedimos-a-los-demas-para-enriquecer-nuestra-vida"
+slug: "libros/lo-que-pedimos-a-los-demas-para-enriquecer-nuestra-vida"
 date: 2018-12-27T00:00:00.000Z
 draft: false
 hideLastModified: false

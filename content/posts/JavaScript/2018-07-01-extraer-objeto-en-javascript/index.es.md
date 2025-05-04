@@ -1,6 +1,6 @@
 ---
 title: "Extraer objeto en JavaScript"
-slug: "extraer-objeto-en-javascript"
+slug: "javascript/extraer-objeto-en-javascript"
 date: 2018-06-30T23:00:00.000Z
 draft: false
 hideLastModified: false

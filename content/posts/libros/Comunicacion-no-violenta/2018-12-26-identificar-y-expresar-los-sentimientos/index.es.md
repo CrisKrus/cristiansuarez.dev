@@ -1,6 +1,6 @@
 ---
 title: "Identificar y expresar los sentimientos"
-slug: "identificar-y-expresar-los-sentimientos"
+slug: "libros/identificar-y-expresar-los-sentimientos"
 date: 2018-12-26T00:00:00.000Z
 draft: false
 hideLastModified: false

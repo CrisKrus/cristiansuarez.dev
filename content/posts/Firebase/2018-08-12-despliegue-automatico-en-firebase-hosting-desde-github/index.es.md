@@ -1,6 +1,6 @@
 ---
 title: "Despliegue automático en Firebase hosting desde Github"
-slug: "despliegue-automatico-en-firebase-hosting-desde-github"
+slug: "firebase/despliegue-automatico-en-firebase-hosting-desde-github"
 date: 2018-08-11T23:00:00.000Z
 draft: false
 hideLastModified: false

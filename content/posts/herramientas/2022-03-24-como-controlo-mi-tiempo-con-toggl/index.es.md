@@ -1,6 +1,6 @@
 ---
 title: "Comó controlo mi tiempo con Toggl"
-slug: "como-controlo-mi-tiempo-con-toggl"
+slug: "herramientas/como-controlo-mi-tiempo-con-toggl"
 date: 2022-03-24T00:00:00.000Z
 draft: false
 hideLastModified: false

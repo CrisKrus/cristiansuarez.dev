@@ -1,6 +1,6 @@
 ---
 title: "Comandos útiles"
-slug: "comandos-utiles"
+slug: "docker/comandos-utiles"
 date: 2021-02-15T00:00:07.000Z
 draft: false
 hideLastModified: false

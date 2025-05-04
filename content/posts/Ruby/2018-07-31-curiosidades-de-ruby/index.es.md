@@ -1,6 +1,6 @@
 ---
 title: "Curiosidades de ruby"
-slug: "curiosidades-de-ruby"
+slug: "ruby/curiosidades-de-ruby"
 date: 2018-07-30T23:00:00.000Z
 draft: false
 hideLastModified: false

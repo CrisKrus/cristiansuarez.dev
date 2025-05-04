@@ -1,6 +1,6 @@
 ---
 title: "Resumen segundo trimestre"
-slug: "resumen-segundo-trimestre"
+slug: "reflexión/resumen-segundo-trimestre"
 date: 2018-09-05T23:00:00.000Z
 draft: false
 hideLastModified: false

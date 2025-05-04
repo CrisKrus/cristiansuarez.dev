@@ -1,6 +1,6 @@
 ---
 title: "Observar sin evaluar"
-slug: "observar-sin-evaluar"
+slug: "libros/observar-sin-evaluar"
 date: 2018-12-26T00:00:00.000Z
 draft: false
 hideLastModified: false

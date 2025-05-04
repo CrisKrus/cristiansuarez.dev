@@ -1,6 +1,6 @@
 ---
 title: "Dar desde el corazón"
-slug: "dar-desde-el-corazon"
+slug: "libros/dar-desde-el-corazon"
 date: 2018-12-26T00:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "Objeto Página (pageObject)"
-slug: "objeto-pagina-page-object"
+slug: "patrones-de-diseño/objeto-pagina-page-object"
 date: 2018-07-11T23:00:00.000Z
 draft: false
 hideLastModified: false

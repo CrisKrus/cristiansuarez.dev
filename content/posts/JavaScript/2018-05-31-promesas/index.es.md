@@ -1,6 +1,6 @@
 ---
 title: "Promesas"
-slug: "promesas"
+slug: "javascript/promesas"
 date: 2018-05-30T23:00:00.000Z
 draft: false
 hideLastModified: false

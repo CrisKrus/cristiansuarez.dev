@@ -1,6 +1,6 @@
 ---
 title: "Límites"
-slug: "limites"
+slug: "libros/limites"
 date: 2018-04-14T23:00:00.000Z
 draft: false
 hideLastModified: false

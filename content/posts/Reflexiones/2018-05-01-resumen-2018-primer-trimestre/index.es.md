@@ -1,6 +1,6 @@
 ---
 title: "Resumen 2018, primer trimestre"
-slug: "resumen-2018-primer-trimestre"
+slug: "reflexión/resumen-2018-primer-trimestre"
 date: 2018-04-30T23:00:00.000Z
 draft: false
 hideLastModified: false

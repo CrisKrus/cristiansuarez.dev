@@ -1,6 +1,6 @@
 ---
 title: "Variables"
-slug: "variables"
+slug: "ruby/variables"
 date: 2018-08-25T23:00:00.000Z
 draft: false
 hideLastModified: false

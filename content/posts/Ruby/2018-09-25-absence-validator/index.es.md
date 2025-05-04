@@ -1,6 +1,6 @@
 ---
 title: "Absence validator"
-slug: "absence-validator"
+slug: "ruby/absence-validator"
 date: 2018-09-25T23:00:00.000Z
 draft: false
 hideLastModified: false

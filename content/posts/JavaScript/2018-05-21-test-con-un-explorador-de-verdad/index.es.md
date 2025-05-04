@@ -1,6 +1,6 @@
 ---
 title: "Test con un explorador de verdad"
-slug: "test-con-un-explorador-de-verdad"
+slug: "javascript/test-con-un-explorador-de-verdad"
 date: 2018-05-20T23:00:00.000Z
 draft: false
 hideLastModified: false

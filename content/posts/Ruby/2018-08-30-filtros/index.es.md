@@ -1,6 +1,6 @@
 ---
 title: "Filtros"
-slug: "filtros"
+slug: "ruby/filtros"
 date: 2018-08-29T23:00:00.000Z
 draft: false
 hideLastModified: false

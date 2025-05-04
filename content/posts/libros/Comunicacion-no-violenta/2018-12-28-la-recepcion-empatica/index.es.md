@@ -1,6 +1,6 @@
 ---
 title: "La recepción empática"
-slug: "la-recepcion-empatica"
+slug: "libros/la-recepcion-empatica"
 date: 2018-12-28T00:00:00.000Z
 draft: false
 hideLastModified: false

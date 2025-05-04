@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es Docker?"
-slug: "que-es-docker"
+slug: "docker/que-es-docker"
 date: 2021-02-15T00:00:00.000Z
 draft: false
 hideLastModified: false

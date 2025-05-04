@@ -1,6 +1,6 @@
 ---
 title: "Olores del código: funciones y nombres"
-slug: "olores-del-codigo-funciones-y-nombres"
+slug: "libros/olores-del-codigo-funciones-y-nombres"
 date: 2018-06-23T23:00:00.000Z
 draft: false
 hideLastModified: false

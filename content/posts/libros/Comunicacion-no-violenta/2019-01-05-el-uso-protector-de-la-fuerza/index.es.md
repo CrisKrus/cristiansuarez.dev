@@ -1,6 +1,6 @@
 ---
 title: "El uso protector de la fuerza"
-slug: "el-uso-protector-de-la-fuerza"
+slug: "libros/el-uso-protector-de-la-fuerza"
 date: 2019-01-05T00:00:00.000Z
 draft: false
 hideLastModified: false

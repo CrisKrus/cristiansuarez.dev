@@ -1,6 +1,6 @@
 ---
 title: "Expresar agradecimiento mediante la comunicación no violenta"
-slug: "expresar-agradecimiento-mediante-la-comunicacion-no-violenta"
+slug: "libros/expresar-agradecimiento-mediante-la-comunicacion-no-violenta"
 date: 2019-01-09T00:00:00.000Z
 draft: false
 hideLastModified: false

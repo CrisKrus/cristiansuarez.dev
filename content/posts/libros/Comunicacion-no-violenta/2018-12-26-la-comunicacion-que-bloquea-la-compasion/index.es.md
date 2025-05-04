@@ -1,6 +1,6 @@
 ---
 title: "La comunicación que bloquea la compasión"
-slug: "la-comunicacion-que-bloquea-la-compasion"
+slug: "libros/la-comunicacion-que-bloquea-la-compasion"
 date: 2018-12-26T00:00:00.000Z
 draft: false
 hideLastModified: false

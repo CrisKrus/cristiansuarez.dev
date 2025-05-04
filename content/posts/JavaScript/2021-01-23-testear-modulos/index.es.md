@@ -1,6 +1,6 @@
 ---
 title: "Testear módulos"
-slug: "testear-modulos"
+slug: "javascript/testear-modulos"
 date: 2021-01-23T09:01:14.381Z
 draft: false
 hideLastModified: false

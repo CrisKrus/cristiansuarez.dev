@@ -1,6 +1,6 @@
 ---
 title: "Nombres significativos"
-slug: "nombres-significativos"
+slug: "libros/nombres-significativos"
 date: 2018-03-08T00:00:00.000Z
 draft: false
 hideLastModified: false

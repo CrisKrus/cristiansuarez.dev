@@ -1,6 +1,6 @@
 ---
 title: "Primeras impresiones de Twitch"
-slug: "primeras-impresiones-de-twitch"
+slug: "reflexión/primeras-impresiones-de-twitch"
 date: 2021-05-20T00:00:00.000Z
 draft: false
 hideLastModified: false

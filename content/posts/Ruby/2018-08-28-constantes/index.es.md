@@ -1,6 +1,6 @@
 ---
 title: "Constantes"
-slug: "constantes"
+slug: "ruby/constantes"
 date: 2018-08-27T23:00:00.000Z
 draft: false
 hideLastModified: false

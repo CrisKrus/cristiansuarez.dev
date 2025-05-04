@@ -1,6 +1,6 @@
 ---
 title: "Conceptos básicos de la toma de requisitos"
-slug: "conceptos-basicos-de-la-toma-de-requisitos"
+slug: "toma-de-requisitos/conceptos-basicos-de-la-toma-de-requisitos"
 date: 2021-02-15T00:00:01.000Z
 draft: false
 hideLastModified: false

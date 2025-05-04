@@ -1,6 +1,6 @@
 ---
 title: "Value object"
-slug: "value-object"
+slug: "javascript/value-object"
 date: 2018-06-04T23:00:00.000Z
 draft: false
 hideLastModified: false

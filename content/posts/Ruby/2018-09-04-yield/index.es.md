@@ -1,6 +1,6 @@
 ---
 title: "Yield"
-slug: "yield"
+slug: "ruby/yield"
 date: 2018-09-03T23:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "¿Cual es la diferencia entre variables cuantitativas y cualitativas?"
-slug: "cual-es-la-diferencia-entre-variables-cuantitativas-y-cualitativas"
+slug: "big-data/cual-es-la-diferencia-entre-variables-cuantitativas-y-cualitativas"
 date: 2021-05-11T00:00:00.000Z
 draft: false
 hideLastModified: false

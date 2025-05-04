@@ -1,6 +1,6 @@
 ---
 title: "He participado en mi primer Datathon"
-slug: "he-participado-en-mi-primer-datathon"
+slug: "reflexión/he-participado-en-mi-primer-datathon"
 date: 2021-09-26T00:00:00.000Z
 draft: false
 hideLastModified: false

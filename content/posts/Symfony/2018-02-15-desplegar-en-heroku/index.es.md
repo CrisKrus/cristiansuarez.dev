@@ -1,6 +1,6 @@
 ---
 title: "Desplegar en Heroku"
-slug: "desplegar-en-heroku"
+slug: "symfony/desplegar-en-heroku"
 date: 2018-02-15T00:00:00.000Z
 draft: false
 hideLastModified: false

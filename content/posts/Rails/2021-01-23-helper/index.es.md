@@ -1,6 +1,6 @@
 ---
 title: "Helper"
-slug: "helper"
+slug: "rails/helper"
 date: 2021-01-23T09:01:14.383Z
 draft: false
 hideLastModified: false

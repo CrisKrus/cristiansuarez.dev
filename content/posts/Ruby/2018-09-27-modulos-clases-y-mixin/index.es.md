@@ -1,6 +1,6 @@
 ---
 title: "Módulos clases y mixin"
-slug: "modulos-clases-y-mixin"
+slug: "ruby/modulos-clases-y-mixin"
 date: 2018-09-27T09:01:14.385Z
 draft: false
 hideLastModified: false

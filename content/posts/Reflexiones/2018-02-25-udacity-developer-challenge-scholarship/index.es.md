@@ -1,6 +1,6 @@
 ---
 title: "Udacity Developer Challenge Scholarship"
-slug: "udacity-developer-challenge-scholarship"
+slug: "reflexión/udacity-developer-challenge-scholarship"
 date: 2018-02-25T00:00:00.000Z
 draft: false
 hideLastModified: false

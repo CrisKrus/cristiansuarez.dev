@@ -1,6 +1,6 @@
 ---
 title: "Instalar PHP"
-slug: "instalar-php"
+slug: "symfony/instalar-php"
 date: 2018-02-11T00:00:00.000Z
 draft: false
 hideLastModified: false

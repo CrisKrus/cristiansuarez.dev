@@ -1,6 +1,6 @@
 ---
 title: "Asincronía"
-slug: "asincronia"
+slug: "javascript/asincronia"
 date: 2018-05-24T23:00:00.000Z
 draft: false
 hideLastModified: false

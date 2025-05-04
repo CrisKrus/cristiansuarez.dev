@@ -1,6 +1,6 @@
 ---
 title: "Disciplina mejor que motivación"
-slug: "disciplina-mejor-que-motivacion"
+slug: "reflexión/disciplina-mejor-que-motivacion"
 date: 2021-08-18T00:00:00.000Z
 draft: false
 hideLastModified: false

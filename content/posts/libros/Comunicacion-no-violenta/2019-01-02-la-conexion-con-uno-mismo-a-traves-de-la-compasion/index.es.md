@@ -1,6 +1,6 @@
 ---
 title: "La conexión con uno mismo a través de la compasión"
-slug: "la-conexion-con-uno-mismo-a-traves-de-la-compasion"
+slug: "libros/la-conexion-con-uno-mismo-a-traves-de-la-compasion"
 date: 2019-01-02T00:00:00.000Z
 draft: false
 hideLastModified: false

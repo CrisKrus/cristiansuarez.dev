@@ -1,6 +1,6 @@
 ---
 title: "Curiosidades de ruby parte 2"
-slug: "curiosidades-de-ruby-parte-2"
+slug: "ruby/curiosidades-de-ruby-parte-2"
 date: 2018-09-23T09:01:14.385Z
 draft: false
 hideLastModified: false

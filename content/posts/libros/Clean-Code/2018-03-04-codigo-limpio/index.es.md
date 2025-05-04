@@ -1,6 +1,6 @@
 ---
 title: "Código limpio"
-slug: "codigo-limpio"
+slug: "libros/codigo-limpio"
 date: 2018-03-04T00:00:00.000Z
 draft: false
 hideLastModified: false

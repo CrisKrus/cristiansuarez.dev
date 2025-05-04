@@ -1,6 +1,6 @@
 ---
 title: "Iniciar el proyecto Symfony"
-slug: "iniciar-el-proyecto-symfony"
+slug: "symfony/iniciar-el-proyecto-symfony"
 date: 2018-02-13T00:00:00.000Z
 draft: false
 hideLastModified: false

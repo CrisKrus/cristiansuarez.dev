@@ -1,6 +1,6 @@
 ---
 title: "Escribir correos con sentido"
-slug: "escribir-correos-con-sentido"
+slug: "reflexión/escribir-correos-con-sentido"
 date: 2021-04-23T00:00:07.000Z
 draft: false
 hideLastModified: false

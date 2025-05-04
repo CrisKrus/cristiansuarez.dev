@@ -1,6 +1,6 @@
 ---
 title: "Feeders"
-slug: "feeders"
+slug: "proyectos/feeders"
 date: 2018-12-17T00:00:00.000Z
 draft: false
 hideLastModified: false

@@ -1,6 +1,6 @@
 ---
 title: "Extraer un modulo, testearlo y sustituirlo por el anterior"
-slug: "extraer-un-modulo-testearlo-y-sustituirlo-por-el-anterior"
+slug: "javascript/extraer-un-modulo-testearlo-y-sustituirlo-por-el-anterior"
 date: 2018-05-21T23:00:00.000Z
 draft: false
 hideLastModified: false
