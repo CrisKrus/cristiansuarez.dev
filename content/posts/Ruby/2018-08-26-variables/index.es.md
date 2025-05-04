@@ -8,7 +8,7 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- DONE -->
+
 
 
   Ruby permite cuatro tipos de variables:

@@ -8,7 +8,7 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- DONE -->
+
 
   > Artículo completo en [ruby-doc.org][ruby-doc.org-yield]
 

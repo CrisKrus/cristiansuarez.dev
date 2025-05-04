@@ -8,7 +8,7 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- DONE -->
+
 
 
   En nuestros test podemos definir etiquetas, si queremos ejecutar un solo test

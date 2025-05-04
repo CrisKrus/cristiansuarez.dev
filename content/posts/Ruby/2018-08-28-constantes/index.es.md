@@ -8,7 +8,7 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- DONE -->
+
 
 
   Las constantes se definen escribiendo la primera letra en mayúsculas, pero

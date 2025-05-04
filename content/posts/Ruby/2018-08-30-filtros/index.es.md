@@ -8,7 +8,7 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- DONE -->
+
 
   Cuando estamos implementando nuestro controlador en Ruby es posible que en
   algunos casos tengamos que comprobar antes de cada acción (método) algo como

@@ -8,7 +8,7 @@ summary: ""
 categories: [ubuntu]
 ---
 
-<!-- DONE -->
+
 
 
   Típicamente tu bash en linux tendrá la siguiente estructura
