@@ -5,7 +5,7 @@ date: 2018-10-09T23:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Ubuntu]
+categories: [ubuntu]
 ---
 
 <!-- DONE -->

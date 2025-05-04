@@ -5,7 +5,7 @@ date: 2022-03-24T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [guías]
+categories: [herramientas]
 ---
 
 En estos días hemos estado hablando [@ulisesantana][ulisesantana] y yo sobre [Toggl]. Una herramienta de *tracking* de tiempo que llevo usando ya unos cuantos años y se ha vuelto en mi día a día casi sin darme cuenta. Con esta aplicación puedo ver como uso mi tiempo. Principalmente, la uso para controlar las tareas que hago en las horas de trabajo.

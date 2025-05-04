@@ -5,7 +5,7 @@ date: 2018-02-11T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Symfony]
+categories: [symfony]
 ---
 
 # Instalar PHP

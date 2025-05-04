@@ -5,7 +5,7 @@ date: 2018-12-17T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [proyecto]
+categories: [proyectos]
 ---
 
   Este proyecto comenzó a inicios de 2016, un amigo (Pablo) y yo queríamos tener
