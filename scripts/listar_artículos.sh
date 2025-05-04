@@ -20,6 +20,20 @@ for file in $(find content/posts -type f -name "*.md"); do
 
   # Extraer el nombre del directorio contenedor (fecha-descripcion)
   directory=$(basename "$(dirname "$file")")
+  
+  # Extraer la categoría según la convención content/posts/[categoria]/[publicacion]
+  path_parts=(${file//\// })
+  if [ ${#path_parts[@]} -ge 3 ]; then
+    path_category=${path_parts[2]}  # Índice 2 corresponde a [categoria]
+  else
+    path_category="sin-categoria"
+  fi
+  
+  # Extraer el campo categories del archivo markdown
+  md_categories=$(grep -m 1 "^categories:" "$file" | sed 's/^categories: //')
+  if [ -z "$md_categories" ]; then
+    md_categories="No especificado"
+  fi
 
   # Si se encuentra un título, registrar en el log
   if [[ -n "$title" ]]; then
@@ -27,6 +41,8 @@ for file in $(find content/posts -type f -name "*.md"); do
     echo "Slug: $slug" >> "$LOG_FILE"
     echo "Ruta: $file" >> "$LOG_FILE"
     echo "Directorio: $directory" >> "$LOG_FILE"
+    echo "Categoría (ruta): $path_category" >> "$LOG_FILE"
+    echo "Categorías (markdown): $md_categories" >> "$LOG_FILE"
     echo "----------------------" >> "$LOG_FILE"
     ((count++))
   fi
