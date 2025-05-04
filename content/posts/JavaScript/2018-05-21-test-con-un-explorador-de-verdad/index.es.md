@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-# Test con un explorador de verdad
-
   Puedes ver como el explorador se abre y va haciendo clicks en los 
   enlaces, etc. Test __end2end__, estos test son buenos cuando la
   aplicación a probar no es testable, probamos directamente la
@@ -29,5 +27,4 @@ categories: [javascript]
   primera respuesta, pulsa el boton de responder pregunta y comprueba que la
   pregunta ha cambiado.
     
-# Sincronia en los test
 

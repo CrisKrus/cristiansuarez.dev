@@ -8,8 +8,6 @@ summary: ""
 categories: [symfony]
 ---
 
-# Iniciar el proyecto Symfony
-
 Estando en el directorio en el que queremos crear el proyecto ejecutamos
 ```bash
 composer create-project symfony/skeleton my_project
@@ -28,7 +26,7 @@ Tras ello si vamos a nuestro explorador web y entramos en `http://localhost:8000
 
 **NOTA**: Se puede usar cualquier otro puerto si este se encuentra en uso, en mi caso el 8000 no hay problema.
 
-# Referencias
+## Referencias
 
 Symfont, [configuracion symfony](https://symfony.com/doc/current/setup.html)
 

@@ -8,8 +8,6 @@ summary: ""
 categories: [reflexión]
 ---
 
-# Hack for good 2018, Canarias
-
 El pasado 8 de Marzo asistí a mi primer [Hackaton](http://hackforgood.net/las-palmas/) junto a mi compañero de batalla [Javier Santana](https://twitter.com/MrIvaj). La primera sorpresa fue nada más llegar, íbamos con una idea preconcebida de encontrar una gran cantidad de frikis de la informática allí, realmente si lo pienso ahora en frío no se porqué, pero fue todo lo contrario encontramos personas de muchas disciplinas dirección de empresas, magisterio, diseño, incluso un profesional que venía huyendo del día a día de su trabajo quería desconectar y pensar en nuevos retos.
 
 Tras las exposiciones de los retos por lo ponentes, nos quedamos en tierra de nadie ningún reto nos llamaba con mucho interés, no sabíamos que hacer en cual de ellos participar. Observábamos como el resto de participantes ya estaban formando sus equipos y empezando a planear que hacer con su reto mientras nosotros discutíamos a que atacar, dudamos entre el propuesto por [Santi Navarro](https://twitter.com/Santi_Navarro_) para [Wikimedia](https://www.wikimedia.org/) o, ir a por el reto de ayuda para los celiacos. Necesitábamos un impulso que nos decidiera de una vez.

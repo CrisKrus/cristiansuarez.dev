@@ -8,8 +8,6 @@ summary: ""
 categories: [symfony]
 ---
 
-# Primera página y controlador
-
 Para crear nuestra primera página basta con crear un nuevo documento PHP
 ```PHP
 // src/Controller/LuckyController.php
@@ -39,7 +37,7 @@ app_lucky_number:
 
 Si entramos en localhost:8000/lucky/number veremos el resultado.
 
-# Anotaciones
+## Anotaciones
 
 Para evitar tener que poner cada ruta en este archivo manualmente, usaremos las **anotaciones**. Para instalar estas (añadir la dependencia) desde el directorio del proyecto en la consola ejecutamos:
 ```bash
@@ -109,7 +107,7 @@ Añadir _framework-extra-bundle_ dependencia. *Esto no se hasta que punto es rea
 composer require sensio/framework-extra-bundle
 ```
 
-# Referencias
+## Referencias
 
 Symfony, [primera página](https://symfony.com/doc/current/page_creation.html)
 

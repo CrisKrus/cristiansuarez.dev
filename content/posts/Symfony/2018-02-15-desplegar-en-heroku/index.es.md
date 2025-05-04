@@ -8,8 +8,6 @@ summary: ""
 categories: [symfony]
 ---
 
-# Desplegar en Heroku
-
 Tras subir el proyecto a **Github**, podremos desplegarlo en Heroku de manera bastante sencilla.
 
 1. Entramos a nuestra cuenta de Heroku y creamos una nueva aplicación.

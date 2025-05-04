@@ -8,8 +8,6 @@ summary: ""
 categories: [symfony]
 ---
 
-# Configurar el IDE
-
 En este caso usaré para el desarrollo el PhpStorm, instalaremos el __*plug-in*__ de Symfony desde
 > File > Settings > Plugins > Browse repositories...
 
@@ -23,7 +21,7 @@ Marcamos *__Enable Plugin for this Project__* cerramos el proyecto y lo volvemos
 Tras ello podemos configurar el estilo del código de acuerdo con Symfony, si queremos
 > File > Settings > Editor > Code Style > PHP > Set from... > Predefined Style > Symfony
 
-# Referencias 
+## Referencias 
 
 Jetbrains, [instalar add-ons](https://confluence.jetbrains.com/display/PhpStorm/Getting+Started+-+Symfony+Development+using+PhpStorm)
 

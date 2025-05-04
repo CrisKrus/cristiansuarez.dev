@@ -8,8 +8,6 @@ summary: ""
 categories: [symfony]
 ---
 
-# Instalar PHP
-
 Instalar PHP y algún extra
 ```bash
 sudo apt-get install php
@@ -28,7 +26,7 @@ Para esto instalaremos php-codesniffer
 sudo apt-get install php-codesniffer
 ```
 
-# Instalar estándares de código
+## Instalar estándares de código
 
 Con esto ya tendremos donde instalar estándares de desarrollo, en mi caso:
 ```bash
@@ -64,7 +62,7 @@ phpcs -i
 
 En la consola tendría que aparecer Symfony entre otros.
 
-# Referencias
+## Referencias
 
 David Morales, [instalacion de PHP](https://youtu.be/36dysH8sNVU)
 
