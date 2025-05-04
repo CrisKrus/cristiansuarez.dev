@@ -61,7 +61,13 @@ manualmente:
 bash scripts/validate_posts.sh
 ```
 
----
+#### Excepciones
+Hay tres rutas específicas que están excluidas de esta validación porque no siguen el formato estándar pero son correctas:
+- `content/posts/libros/Clean-Code`
+- `content/posts/libros/Comunicacion-no-violenta`
+- `content/posts/ponencia/resources`
+
+Estas rutas no generarán errores durante la validación.
 
 ### 3. `validate_non_markdown_files_in_resources`
 
