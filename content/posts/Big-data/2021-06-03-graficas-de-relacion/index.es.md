@@ -4,7 +4,7 @@ slug: "graficas-de-relacion"
 date: 2021-06-03T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [visualización de datos]
+categories: [big data, visualización de datos]
 summaryImage: "Untitled.png"
 ---
 

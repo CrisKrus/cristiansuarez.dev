@@ -5,7 +5,7 @@ date: 2022-01-26T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [jupyter notebook]
+categories: [big data, jupyter notebook]
 ---
 
 Últimamente, a Medea que voy avanzando en el mundo del big data, me voy alejando del inicio del sistema como ingeniero de datos y me acerco un poco más a la parte de análisis de datos he visto que gusta bastante explorar datos e incluso desarrollar ciertas partes con Jupyter Notebooks. Esto, persé, no es un problema soy defensor de los Notebooks bajo situaciones concretas.

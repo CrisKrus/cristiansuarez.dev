@@ -4,7 +4,7 @@ slug: "graficas-de-distribucion"
 date: 2021-08-24T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [visualización de datos]
+categories: [big data, visualización de datos]
 summaryImage: "histogram-vs-kde.png"
 ---
 

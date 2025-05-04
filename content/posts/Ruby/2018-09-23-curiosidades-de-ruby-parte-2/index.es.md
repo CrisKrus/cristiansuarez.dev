@@ -5,7 +5,7 @@ date: 2018-09-23T09:01:14.385Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Ruby]
+categories: [ruby]
 ---
 
 <!-- TODO: put on meta-description witch topics I told here  -->

@@ -4,7 +4,7 @@ slug: "como-facilitar-una-retrospectiva"
 date: 2021-04-30T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [reuniones]
+categories: [scrum, sesiones]
 summaryImage: "reunion.png"
 ---
 

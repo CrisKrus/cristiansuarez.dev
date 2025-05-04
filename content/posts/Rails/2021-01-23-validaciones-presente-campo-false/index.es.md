@@ -5,7 +5,7 @@ date: 2021-01-23T09:01:14.384Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Rails]
+categories: [rails]
 ---
 
   Si tenemos un campo booleano en nuestro modelo que queremos que sea

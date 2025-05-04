@@ -5,7 +5,7 @@ date: 2018-09-25T23:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Ruby]
+categories: [ruby]
 ---
 
 <!-- TODO what is the utility of this, my example of use is wrong as y mention

@@ -5,7 +5,7 @@ date: 2021-10-14T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Python]
+categories: [python]
 ---
 
 `Virtualenv` fue la primera version para gestionar entornos en python, esto evolucionó a `pipenv` para tener una interfaz más cómoda y fácil de usar.

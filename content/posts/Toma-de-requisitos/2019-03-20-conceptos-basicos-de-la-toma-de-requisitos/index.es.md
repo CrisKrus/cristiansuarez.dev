@@ -5,7 +5,7 @@ date: 2019-03-20T09:01:14.385Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Toma-de-requisitos]
+categories: [toma de requisitos]
 ---
 
   Para una buena toma de requisitos hay que centrarse en __las 5 W__. Las cuales

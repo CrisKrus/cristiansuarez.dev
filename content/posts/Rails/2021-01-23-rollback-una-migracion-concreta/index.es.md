@@ -5,7 +5,7 @@ date: 2021-01-23T09:01:14.383Z
 draft: false
 hideLastModified: false
 summary: ""
-categories: [Rails]
+categories: [rails]
 ---
 
 
