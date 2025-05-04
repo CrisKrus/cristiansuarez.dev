@@ -8,8 +8,6 @@ summary: ""
 categories: [rails]
 ---
 
-Helpers
-================================================================================
 
   Supongamos que tienes guardado en sesión el correo del usuario actual (una
   cookie) y que quieres acceder a ella en varias vistas de la aplicación. Para

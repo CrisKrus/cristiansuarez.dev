@@ -8,10 +8,6 @@ summary: ""
 categories: [ruby]
 ---
 
-<!-- TODO: put on meta-description witch topics I told here  -->
-
-Manejo de array
-================================================================================
 
   Para acceder a los arrays podemos hacerlo de varias formas, una de ellas es
   mediante los corchetes. Estos son muy flexibles, podemos hacer muchas cosas
@@ -36,8 +32,7 @@ a[0, 0] = [ 1, 2 ]          #=> [1, 2, "A"]
 a[3, 0] = "B"               #=> [1, 2, "A", "B"]
 ````````````````````````````````````````````````````````````````````````````````
 
-Diferencia entre dup & clone
-================================================================================
+## Diferencia entre dup & clone
 
   > Articulo completo en [coderwall].
 
@@ -104,8 +99,7 @@ p c.frozen?   # => true
 
   Como podemos ver el estado se mantiene si usamos el __clone__.
 
-for VS each
-================================================================================
+## for VS each
 
   > Artículo completo en [freecodecamp-leandrotk] por [LeandroTK] en el apartado
   > de *Looping/Iterator*.
@@ -131,8 +125,7 @@ end
 puts num # => undefined local variable or method `n' for main:Object (NameError)
 ````````````````````````````````````````````````````````````````````````````````
 
-Objetos
-================================================================================
+## Objetos
 
   En ruby no tenemos porque declarar los campos de un objeto, basta con
   incluirlos con un `@`. Estos campos por defecto no son accesibles desde fuera,
@@ -177,8 +170,7 @@ item.name = 'teclado' # se modifica el valor a teclado
 
 ````````````````````````````````````````````````````````````````````````````````
 
-Múltiples campos en un método
-================================================================================
+## Múltiples campos en un método
 
   > Articulo completo en [codementor] punto 3
 
@@ -198,8 +190,7 @@ feeling("Suzie", "happy", "excited", "nervous")
 # Suzie is feeling nervous today.
 ````````````````````````````````````````````````````````````````````````````````
 
-Usar doble exclamación (!!) para comprobar si existe un valor
-================================================================================
+## Usar doble exclamación (!!) para comprobar si existe un valor
 
   > Articulo completo en [codementor] punto 5
 
@@ -241,8 +232,7 @@ puts !obama.middle_name     #=> false
 puts !!obama.@middle_name   #=> true
 ````````````````````````````````````````````````````````````````````````````````
 
-Legibilidad
-================================================================================
+## Legibilidad
 
 Métodos `true` `false`
 --------------------------------------------------------------------------------

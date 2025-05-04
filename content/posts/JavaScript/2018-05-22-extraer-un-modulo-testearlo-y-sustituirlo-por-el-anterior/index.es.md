@@ -8,14 +8,12 @@ summary: ""
 categories: [javascript]
 ---
 
-Extraer un modulo, testearlo y sustituirlo por el anterior
-================================================================================
   Duplicar el codigo en un nuevo objeto, exportar este si no lo estaba para 
   que sea accesible desde fuera y comenzar el test. Una vez ya podemos 
   testearlo hacer los test necesarios. Con ello podremos comenzar a cambiar el 
   modulo y a hacer el refactor. 
   
-  Esto es como se hacia en ES5
+  Esto es como se hacía en ES5
   
 ````````````````````````````````````````````````````````````````````````````````
 let saberganar = saberganar || {};
@@ -56,8 +54,7 @@ saberganar.game = function(questionNavigator){
   puede que sea por el contexto o por como funciona el `let`
   
     
-Extraer en ES6
-================================================================================
+## Extraer en ES6
 
 Partimos de un fichero con toda la aplicacion
 

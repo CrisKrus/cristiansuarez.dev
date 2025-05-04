@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-Asincronía
-================================================================================
 
   En algunas ocasiones tenemos que hacer un test y que este espere un tiempo 
   hasta que una funcion termine, ya que esta es asincrona. Para ello tenemos la 

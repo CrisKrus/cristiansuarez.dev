@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, comunicación no violenta]
 ---
 
-Dar desde el corazón
-================================================================================
 
   Los 4 componentes de la CNV:
   1. Observación

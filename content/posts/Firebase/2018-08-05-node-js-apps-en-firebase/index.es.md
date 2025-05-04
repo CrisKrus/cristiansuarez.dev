@@ -8,8 +8,6 @@ summary: ""
 categories: [firebase]
 ---
 
-Node.js apps en Firebase
-================================================================================
 
   Si queremos podemos montar nuestra aplicación Node.js en *firebase hosting*
   usando *firebase functions* de manera gratuita y sin muchos problemas. A

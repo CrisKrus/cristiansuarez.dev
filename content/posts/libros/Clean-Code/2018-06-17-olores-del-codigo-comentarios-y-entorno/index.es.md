@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Olores del código: comentarios y entorno
-================================================================================
 
   Existen muchas cosas que no huelen bien en el código y a continuación vas a
   poder ver las referentes a comentarios y al entorno. Esta es una publicación

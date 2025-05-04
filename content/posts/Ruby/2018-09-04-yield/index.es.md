@@ -9,8 +9,6 @@ categories: [ruby]
 ---
 
 <!-- DONE -->
-Yield
-================================================================================
 
   > Artículo completo en [ruby-doc.org][ruby-doc.org-yield]
 

@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Nombres significativos
-================================================================================
 
   En este capítulo se trata un tema el cual me importa especialmente, nombrar 
   variables, métodos, clases o cualquier cosa que requiera ser nombrada. Es 

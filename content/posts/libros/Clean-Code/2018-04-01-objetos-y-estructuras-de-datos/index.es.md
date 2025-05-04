@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Objetos y estructuras de datos
-================================================================================
 
   ¿Porque crear variables privadas si acto seguido creamos los _getters_ y 
   _setters_? Con esto hacemos que el modificador _private_ pierda el sentido.

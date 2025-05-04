@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Código limpio
-================================================================================
 
   Todo este capítulo se dedica a hacernos ver la **importancia** que tiene el 
   código, que este sea lo más limpio posible y, los diferentes puntos de 

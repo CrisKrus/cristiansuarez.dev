@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Concurrencia
-================================================================================
 
   Concurrencia... Aaaah mi amiga la concurrencia, como te quiero y te odio a la 
   vez. Tú junto con la recursividad has sido, de momento, los dos conceptos que 

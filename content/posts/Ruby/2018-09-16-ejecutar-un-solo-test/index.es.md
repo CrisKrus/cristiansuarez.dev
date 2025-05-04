@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- DONE -->
 
-Ejecutar solo un test
-================================================================================
 
   En nuestros test podemos definir etiquetas, si queremos ejecutar un solo test
   podemos definir una que sea `:focus` de manera que en el test que queramos

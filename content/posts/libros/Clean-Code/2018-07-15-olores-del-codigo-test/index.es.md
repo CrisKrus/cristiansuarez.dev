@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Olores del código: test
-================================================================================
 
   Existen muchas cosas que no huelen bien en el código y a continuación vas a
   poder ver las referentes a los test. Esta es una publicación

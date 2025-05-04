@@ -8,8 +8,6 @@ summary: ""
 categories: [patrones de diseño]
 ---
 
-Objeto Página (*pageObject*)
-================================================================================
 
   Cuando te encuentras haciendo test para una aplicación que no tiene módulos
   testables y tienes que hacerlo contra la interfaz directamente, es muy

@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Clases
-================================================================================
 
   Hasta ahora hemos visto como escribir de la mejor manera posible lineas y
   bloques de código, pero aun no hemos visto como  hacerlo con las clases.

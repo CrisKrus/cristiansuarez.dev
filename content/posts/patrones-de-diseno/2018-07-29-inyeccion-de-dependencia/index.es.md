@@ -8,8 +8,6 @@ summary: ""
 categories: [patrones de diseño]
 ---
 
-Inyección de dependencia
-================================================================================
 
   La [inyección de dependencia] consiste, como su nombre indica, en añadir,
   insertar dependencia a un objeto. Esto no es recomendable porque creas

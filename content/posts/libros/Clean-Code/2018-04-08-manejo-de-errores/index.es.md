@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Manejo de errores
-================================================================================
 
   Puede sonar raro hablar de errores en un libro que trata sobre código limpio,
   pero los errores son algo que ocurre porque somos humanos y como tal erramos.

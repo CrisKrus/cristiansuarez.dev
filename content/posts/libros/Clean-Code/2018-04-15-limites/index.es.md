@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Límites
-================================================================================
 
   Cuando consumimos una API de terceros existe un conflicto de ideas entre quien
   la crea y quien la consume. Los creadores quieren llegar a la mayor cantidad

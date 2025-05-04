@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Sistemas
-========================================================================
 
 En este capítulo el autor empieza con un símil que me gusta mucho y voy 
 a tratar de traducir lo más fielmente que sé.

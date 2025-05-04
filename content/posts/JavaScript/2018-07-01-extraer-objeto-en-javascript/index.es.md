@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-Extrer objeto en JavaScript
-================================================================================
 
   Vamos a ver como extraer un objeto en [JavaScript] en su versión
   de [ECMAScript 5]. Partimos de un fichero donde tenemos todas las

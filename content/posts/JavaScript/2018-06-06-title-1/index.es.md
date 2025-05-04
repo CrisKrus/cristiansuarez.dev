@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-Title 1
-================================================================================
 
   El objetivo de un codigo es que sea mantenible, no reutilizable. Rara vez 
   reutilizamos el codigo, este enfoque es muy de los años ochenta.

@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, comunicación no violenta]
 ---
 
-La comunicación que bloquea la compasión
-================================================================================
 
   La comunicación que nos aliena de la vida surge de las sociedades jerárquicas
   o de dominación, y las sustenta. Cuando los pueblos están controlados por un

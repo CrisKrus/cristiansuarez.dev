@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Funciones
-================================================================================
 
   Como ya vimos en el capítulo anterior nombrar coherentemente es importante, 
   pero no es lo único que tenemos que hacer. Las funciones si están bien 

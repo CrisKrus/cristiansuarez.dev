@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Test Unitarios
-================================================================================
 
   La programación a evolucionado mucho en tan solo 20 años, antes por 1997
   cuando estaba empezando no había forma de probar las funciones que creábamos.

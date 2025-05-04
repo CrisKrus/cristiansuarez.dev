@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Prefacio
-================================================================================
 
   Se resume en una frase: "Las pequeñas cosas si importan"
 
@@ -30,8 +28,7 @@ Prefacio
    creer que es la mejor creación del universo, reflexionar y estar dispuesto a
    cambiar.
 
-Introdución
-================================================================================
+## Introducción
 
   <Foto de la puerta aquí>
 

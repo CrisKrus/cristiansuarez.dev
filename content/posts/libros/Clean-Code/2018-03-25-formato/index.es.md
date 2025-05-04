@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Formato
-================================================================================
 
   ¿Dejar una linea en blanco entre métodos o no? ¿El corchete de inicio de la
   función en la misma linea o en la siguiente? ¿Los campos de la clase todos en
@@ -23,8 +21,7 @@ Formato
   programadores, pero existe unas "normas" que todos conocen o van descubriendo
   con el paso del tiempo.
 
-Formato vertical
-================================================================================
+## Formato vertical
 
   ¿Cuanto debe ocupar un fichero? Como ya dije no hay nada escrito en Java un
   fichero es una clase, si estamos haciendo lo correcto. Estas si miramos casos
@@ -49,8 +46,7 @@ Formato vertical
   en este. Si es una variable para controlar un bucle, esta estará justo encima
   del bucle.
 
-Formato horizontal
-================================================================================
+## Formato horizontal
 
   En los inicios de la informática no se escribían mas de 80 caracteres (si no
   me equivoco) porque los terminales donde se veían no alcanzaban mas. Hoy en
@@ -90,17 +86,15 @@ Formato horizontal
   private Request request;
   ``````````````````````````````````````````````````````````````````````````````
 
-Reglas de equipo
-================================================================================
+## Reglas de equipo
 
-  Todas esta reglas que seguimos cada uno de nosotros al escribir no dejan de
+  Todas estas reglas que seguimos cada uno de nosotros al escribir no dejan de
   ser por gusto personal. Por ello si vamos a realizar un proyecto en equipo es
   mejor usar 10 minutos antes de empezar a hacer nada y llegar a un acuerdo
   entre todos para que todo este sea de la misma forma y no veamos decenas de
   estilos diferentes. Sera una ayuda en el futuro si tenemos que leer parte del
   trabajo hecho por un compañero.
 
-[Libro original]
-================================================================================
+## Libro original
 
 [Libro original]: https://leer.amazon.es/kp/embed?asin=B001GSTOAM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_bopYAb3Y71AX3&tag=5413

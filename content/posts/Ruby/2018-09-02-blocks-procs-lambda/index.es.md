@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- DONE -->
 
-Diferencia entre `Block`, `Proc` y `Lambda`
-================================================================================
 
   - Los proc se crean de la siguiente forma:
 

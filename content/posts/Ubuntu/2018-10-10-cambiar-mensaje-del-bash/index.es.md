@@ -10,8 +10,6 @@ categories: [ubuntu]
 
 <!-- DONE -->
 
-Cambiar el mensaje del bash
-================================================================================
 
   Típicamente tu bash en linux tendrá la siguiente estructura
 

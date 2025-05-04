@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Olores del código: funciones y nombres
-================================================================================
 
   Existen muchas cosas que no huelen bien en el código y a continuación vas a
   poder ver las referentes a funciones y nombres. Esta es una publicación

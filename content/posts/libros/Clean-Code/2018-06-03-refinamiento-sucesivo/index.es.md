@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Refinamiento Sucesivo
-================================================================================
 
   Si te mostrara ahora un trozo de código y te dijese: "Mira que limpio está"
   podrías pensar que esto ha salido a la primera de mi cabeza porque soy muy

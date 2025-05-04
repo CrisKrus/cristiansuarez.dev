@@ -9,8 +9,6 @@ categories: [ruby]
 ---
 
 
-Módulos, clases y mixin
-================================================================================
 
   Las clases son objetos.
 

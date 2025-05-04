@@ -8,8 +8,6 @@ summary: ""
 categories: [firebase]
 ---
 
-  Usar PUG en Firebase
-================================================================================
 
   Si ya tenemos nuestra aplicación funcionando con [firebase hosting] y
   [firebase functions] podemos añadir el sistema de plantillas [PUG], por

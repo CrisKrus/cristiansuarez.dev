@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- TODO: put on meta-description witch topics I told here  -->
 
-Métodos de clase
-================================================================================
 
   Si queremos tener métodos que son independientes del objeto podemos hacerlos
   con métodos de clase.
@@ -27,8 +25,7 @@ end
   Estos métodos se llaman directamente desde la clase y no desde el objeto
   `Foo.class_method`
 
-Re-Raising exceptions
-================================================================================
+## Re-Raising exceptions
 
   > Articulo original [ruby-doc.org][ruby-doc.org-raise]
 
@@ -54,8 +51,7 @@ rescue HatchError => err
 end
 ```
 
-Variables globales
-================================================================================
+## Variables globales
 
   > Documentación completa en [ruby-doc.org][ruby-doc.org-global-vars]
 
@@ -99,8 +95,7 @@ $! (Dollar Bang) contains the Exception that was passed to raise.
 $@ (Dollar At Symbol) contains the backtrace for the last Exception raised.
 ````
 
-Tipos de datos
-================================================================================
+## Tipos de datos
 
   > Más información en el curso completo de
   [Pluralsight][pluralsight-ruby-fundamentals]

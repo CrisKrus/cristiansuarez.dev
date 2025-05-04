@@ -8,12 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-<!-- TODO check references -->
-<!-- tags: javaScript, testing, buenas practicas, saber ganar -->
-
-Probar modulos
-================================================================================
-
   Vamos a probar el modulo que hemos sacado en la parte anterior del juego
   saberganar.
 
@@ -78,8 +72,7 @@ describe('question navigator', function () {
 });
 ```
 
-Actualizar test de la interfaz
-================================================================================
+## Actualizar test de la interfaz
 
   Para que nuestros test anteriormente hechos sobre la interfaz sigan pasando
   tendremos que actualizarlos con el nuevo módulo.

@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-Promesas
-================================================================================
 
   De donde vienen y porque surge la necesidad. 
   

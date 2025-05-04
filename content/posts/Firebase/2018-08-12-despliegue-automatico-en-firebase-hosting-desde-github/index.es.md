@@ -8,8 +8,6 @@ summary: ""
 categories: [firebase]
 ---
 
-Despliegue automático en Firebase hosting desde Github
-================================================================================
 
   Para desplegar automáticamente nuestra aplicación en el sistema de hosting de
   Firebase usaremos una herramienta  llamada [travis].

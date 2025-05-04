@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, comunicación no violenta]
 ---
 
-Identificar y expresar los sentimientos
-================================================================================
 
   En la actualidad se nos educa para orientarnos hacia los demás más que para
   estar en contacto con nosotros mismos. Tenemos metida en la cabeza la

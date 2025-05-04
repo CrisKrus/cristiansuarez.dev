@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- DONE -->
 
-Test en Ruby
-================================================================================
 
   > Artículo original en [rspec-info]
 

@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-JUnit Internos
-================================================================================
 
   [JUnit] es de los *frameworks* *open source* más famosos de testing en Java. Es 
   simple en su concepto, preciso y elegante de implementar. Además al tener 

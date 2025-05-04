@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, clean code]
 ---
 
-Comentarios
-================================================================================
 
   Comentarios, un buen comentario puede ser muy útil, puede ser la mejor ayuda
   que encontraste ese día pero, por otra parte pueden ser tan dañinos y malvados

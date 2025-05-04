@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- DONE -->
 
-Constantes
-================================================================================
 
   Las constantes se definen escribiendo la primera letra en mayúsculas, pero
   normalmente se escriben todas ellas. Si despues de definir esta constante

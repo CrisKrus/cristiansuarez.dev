@@ -8,8 +8,6 @@ summary: ""
 categories: [javascript]
 ---
 
-Value object
-================================================================================
 
   Cuando llamo al `then` devuelve una nueva promesa
   
@@ -35,8 +33,7 @@ Value object
   son mutables y el estado de estos y sus valores pueden ser modificados a lo 
   largo del tiempo.
 
-Arquitectura exagonal puertos y adaptadores
-================================================================================
+## Arquitectura hexagonal puertos y adaptadores
 
   Existen objetos que son solamente para transporte de datos, objetos JSON que 
   luego serializamos para enviarlos como por ejemplo entre un cliente y un 

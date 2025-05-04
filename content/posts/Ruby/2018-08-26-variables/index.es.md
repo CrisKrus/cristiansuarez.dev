@@ -10,8 +10,6 @@ categories: [ruby]
 
 <!-- DONE -->
 
-Variables en las clases de Ruby
-================================================================================
 
   Ruby permite cuatro tipos de variables:
 

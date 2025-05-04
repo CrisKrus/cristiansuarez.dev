@@ -11,8 +11,6 @@ categories: [ruby]
 <!-- TODO what is the utility of this, my example of use is wrong as y mention
 at the end of the post -->
 
-Validador de ausencia (*absence*)
-================================================================================
 
   En Ruby on Rails existe un validador con el nombre de *__absence__*, este la
   primera vez que lo vi pensé *"¿Para que quiere comprobar que un valor no

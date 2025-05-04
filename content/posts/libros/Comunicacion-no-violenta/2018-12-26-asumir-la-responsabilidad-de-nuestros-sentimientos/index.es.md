@@ -8,8 +8,6 @@ summary: ""
 categories: [libros, comunicación no violenta]
 ---
 
-Asumir la responsabilidad de nuestros sentimientos
-================================================================================
 
   Otro de los componentes de la comunicación no violenta es reconocer el origen
   de nuestros sentimientos. Nuestros sentiemientos son el resultado de cómo
