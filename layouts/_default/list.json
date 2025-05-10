@@ -1,0 +1,10 @@
+[
+  {{- range .Pages -}}
+  {
+    "title": "{{ .Title }}",
+    "permalink": "{{ .Permalink }}",
+    "summary": "{{ .Summary | plainify }}",
+    "content": "{{ .Plain | plainify }}"
+  }{{ if not (last .) }},{{ end }}
+  {{- end -}}
+]
