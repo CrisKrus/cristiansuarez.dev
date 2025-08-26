@@ -1,11 +1,11 @@
 ---
 title: "Mi experiencia dando una lightning talk en la Software Crafters Barcelona 2024"
-slug: "reflexión/mi-experiencia-dando-una-lightning-talk-en-la-software-crafters-barcelona-2024"
+slug: "ponencia/mi-experiencia-dando-una-lightning-talk-en-la-software-crafters-barcelona-2024"
 date: 2024-11-10T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Hablar 7 minutos sobre TDD en la Software Crafters Barcelona fue más difícil de lo que pensaba: condensar, priorizar y aprender a confiar en lo breve."
-categories: [reflexión]
+categories: [ponencia]
 ---
 
 El año pasado tuve la oportunidad de dar una **lightning talk** en la Software Crafters Barcelona 2024. Para mí este evento tiene un valor especial: siempre ha sido un punto de encuentro con la comunidad, un lugar donde compartir aprendizajes y volver a la esencia del *software craftsmanship*. Por eso decidí preparar una charla corta sobre un tema básico pero fundamental: el **TDD**.
