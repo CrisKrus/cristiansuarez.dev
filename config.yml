@@ -10,6 +10,10 @@ buildExpired: false
 
 googleAnalytics: G-XJEZMMFYBD
 
+services:
+  googleAnalytics:
+    ID: G-XJEZMMFYBD
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -156,6 +160,10 @@ menu:
       name: Archivo
       url: /archive/
       weight: 30
+    - identifier: privacy
+      name: Privacidad
+      url: /privacy/
+      weight: 40
 #    - identifier: buscar
 #      name: buscar
 #      url: /search/
@@ -171,6 +179,9 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
     # anchorLineNos: true
