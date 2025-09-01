@@ -1,6 +1,7 @@
 baseURL: "https://cristiansuarez.dev"
 title: The Flip Flop Developer
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
