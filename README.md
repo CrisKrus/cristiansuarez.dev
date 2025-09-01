@@ -1,5 +1,9 @@
 # cristiansuarez.dev
 
+Blog personal de Cristian Suarez Dev aka flip flop developer, donde comparte lo que aprende, experiencias y reflexiones sobre desarrollo de software.
+
+Este proyecto utiliza [Hugo](https://gohugo.io/) como generador de sitios estáticos. Para más información sobre Hugo, consulta su [documentación oficial](https://gohugo.io/documentation/).
+
 ## Descargar el proyecto
 
 ```cmd

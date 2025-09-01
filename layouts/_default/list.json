@@ -1,10 +1,11 @@
 [
-  {{- range .Pages -}}
+  {{- $len := (len .Pages) -}}
+  {{- range $i, $page := .Pages -}}
   {
     "title": "{{ .Title }}",
     "permalink": "{{ .Permalink }}",
     "summary": "{{ .Summary | plainify }}",
     "content": "{{ .Plain | plainify }}"
-  }{{ if not (last .) }},{{ end }}
+  }{{- if ne (add $i 1) $len -}},{{- end -}}
   {{- end -}}
 ]

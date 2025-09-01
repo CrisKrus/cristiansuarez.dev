@@ -1,0 +1,36 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- if .IsPage -}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "author": {
+        "@type": "Person",
+        "name": "{{ site.Params.author }}"
+    },
+    "datePublished": "{{ .PublishDate.Format $iso8601 }}",
+    "dateModified": "{{ .Lastmod.Format $iso8601 }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.Title }}",
+        "url": "{{ site.BaseURL }}"
+    }
+}
+</script>
+{{- else -}}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.Title }}",
+    "url": "{{ site.BaseURL }}",
+    "description": "{{ site.Params.description }}"
+}
+</script>
+{{- end -}}
