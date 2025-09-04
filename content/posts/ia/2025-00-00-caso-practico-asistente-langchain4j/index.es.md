@@ -1,8 +1,8 @@
 ---
 title: "Caso práctico con LangChain4j: asistente vertical con cálculos y preferencias"
 slug: "ia/caso-practico-asistente-vertical-langchain4j"
-date: 2025-09-01:00:00.000Z
-draft: true
+date: 2025-09-02:00:00.000Z
+draft: false
 hideLastModified: false
 summary: "Cómo diseñar un asistente vertical con LangChain4j que combina herramientas, memoria estructurada y lógica determinista para ofrecer recomendaciones personalizadas."
 categories: [ia]
@@ -111,6 +111,9 @@ Este caso práctico muestra cómo implementar un asistente vertical usando LangC
 
 ### Referencias a artículos relacionados
 
+> Pronto iremos publicando artículos que profundizan en cada uno de estos aspectos:
+> Actualizaremos los enlaces a medida que estén disponibles.
+
 * [Workflows, Agentic y Agents en LangChain4j: el mapa para no perderse][el-mapa-para-no-perderser]
 * [Diseñando un “Workflow Router” determinista delante de tu agente][workflow-router]
 * [Agentic en LangChain4j: toolbox bien diseñado o caos asegurado][agentic-toolbox]
@@ -121,12 +124,12 @@ Este caso práctico muestra cómo implementar un asistente vertical usando LangC
 * [Patrones de error comunes al pasar de workflow a agente (y cómo evitarlos)][patrones-de-error]
 * [Arquitectura de referencia: front de chat + backend con contexto + LC4j][arquitectura-de-referencia]
 
-[el-mapa-para-no-perderser]: http.todo.pending
-[workflow-router]: http.todo.pending
-[agentic-toolbox]: http.todo.pending
-[memoria-conversacional]: http.todo.pending
-[estado-estructurado]: http.todo.pending
-[RAG-en-produccion]: http.todo.pending
-[observabilidad-evals]: http.todo.pending
-[patrones-de-error]: http.todo.pending
-[arquitectura-de-referencia]: http.todo.pending
+[el-mapa-para-no-perderser]: https://leanmind.es/es/blog
+[workflow-router]: https://leanmind.es/es/blog
+[agentic-toolbox]: https://leanmind.es/es/blog
+[memoria-conversacional]: https://leanmind.es/es/blog
+[estado-estructurado]: https://leanmind.es/es/blog
+[RAG-en-produccion]: https://leanmind.es/es/blog
+[observabilidad-evals]: https://leanmind.es/es/blog
+[patrones-de-error]: https://leanmind.es/es/blog
+[arquitectura-de-referencia]: https://leanmind.es/es/blog
