@@ -191,6 +191,15 @@ markup:
     # lineNos: true
     # style: monokai
 
+# Enable processing of page bundle resources
+imaging:
+  resampleFilter: "CatmullRom"
+  quality: 75
+  anchor: "smart"
+
+# Ensure static files and page resources are processed correctly
+staticDir: ["static"]
+
 outputs:
   home: ["HTML", "JSON"]
 
