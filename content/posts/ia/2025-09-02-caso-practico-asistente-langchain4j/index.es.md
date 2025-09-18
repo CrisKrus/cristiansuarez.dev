@@ -1,7 +1,7 @@
 ---
 title: "Caso práctico con LangChain4j: asistente vertical con cálculos y preferencias"
 slug: "ia/caso-practico-asistente-vertical-langchain4j"
-date: 2025-09-02:00:00.000Z
+date: 2025-09-02T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Cómo diseñar un asistente vertical con LangChain4j que combina herramientas, memoria estructurada y lógica determinista para ofrecer recomendaciones personalizadas."

@@ -1,7 +1,7 @@
 ---
 title: "Guía visual y explicativa para no perderte en el mundo agentic (LangChain4j edition)"
 slug: "ia/guia-vocabulario-visual-langchain4j"
-date: 2025-09-01:00:00.000Z
+date: 2025-09-01T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Glosario visual y funcional de conceptos clave en LangChain4j, con ejemplos y sugerencias para presentaciones y formación."

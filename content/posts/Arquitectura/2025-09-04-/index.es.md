@@ -1,7 +1,7 @@
 ---
 title: "Comunicación en Tiempo Real en la Web: SSE, Webhooks y WebSockets"
 slug: "arquitectura/sse-vs-webhooks-vs-websockets"
-date: 2025-09-04:00:00.000Z
+date: 2025-09-04T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Comparativa visual y funcional entre Server-Sent Events (SSE), Webhooks y WebSockets para entender sus diferencias y casos de uso."
