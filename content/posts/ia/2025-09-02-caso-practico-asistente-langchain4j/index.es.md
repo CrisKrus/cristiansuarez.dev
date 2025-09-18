@@ -52,7 +52,7 @@ Se utiliza un router determinista que decide entre:
 * Calcular un plan directamente (`calcStudyPlan`) si los inputs están claros.
 * Delegar al agente (`Agentic`) si hay ambigüedad o necesidad de interpretación.
 
-![img.png](img.png)
+![Diagrama del router determinista](/images/posts/ia/caso-practico-langchain4j/img.png)
 
 [//]: # (```mermaid)
 
