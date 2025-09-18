@@ -30,7 +30,7 @@ Con estas ganas empecé un sábado 27 de febrero, con problemas, imprevistos, co
 
 No he anunciado nada estas sesiones y aún con estas me han encontrado tantas personas, gracias.
 
-![resumen primeros meses en datos](resources/resumen-en-datos.png)
+![resumen primeros meses en datos](/images/posts/reflexiones/resumen-en-datos.png)
 
 ## ¿Qué es lo que hago?
 

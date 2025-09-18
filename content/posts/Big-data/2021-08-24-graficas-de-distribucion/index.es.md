@@ -16,7 +16,7 @@ Un histograma no es una gráfica de barras, puede parecerlo pero tiene diferenci
 
 Con esto nos referimos a que el eje de las X no está separado por grupos de manera natural (como puede ser el estado de una tarea; pendiente, hecho, por hacer) en este caso es continuo y existen infinitos valores entre un punto y el siguiente. Es por esto que, en este tipo de gráficos tenemos que agrupar nuestros valores en clases (**bins**). Estas clases simplemente son un rango para poder hacer la agrupación por ejemplo, si tenemos valores desde 0 hasta 1 podríamos decidir agruparlos en clases de 1. Esta primera clase, va a tener una barra para los valores que se encuentran en este rango [0, 1), otra para [1, 2) y de esta forma todos los valores o nos puede interesar agrupar en rangos de dos. Esto dependerá del uso que le queramos dar y los valores que tengamos disponibles.
 
-![histograma](resources/histogram.png)
+![histograma](/images/posts/big-data/histogram.png)
 
 A diferencia de los gráficos de barras, los histogramas no pueden ordenarse por frecuencia de aparición ya que pierden el sentido de continuidad y lo que representan. Con un histograma podemos ver como se distribuyen los datos.
 
@@ -26,7 +26,7 @@ Este tipo de gráficos funciona de forma similar que el histograma que hemos vis
 
 De igual forma podemos ver la evolución de una variable respecto de otra.
 
-![histograma vs kde](resources/histogram-vs-kde.png)
+![histograma vs kde](/images/posts/big-data/histogram-vs-kde.png)
 
 Con este tipo de gráficas, como su propio nombre indica, podremos identificar patrones referentes a la distribución de los datos como puede ser el rango con mayor frecuencia de aparición, etc.
 

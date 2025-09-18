@@ -22,7 +22,7 @@ Esta guía no es un glosario tradicional. Aquí no hay definiciones frías ni or
 
 * **Resumen (Summary)**: Si la ventana no alcanza, el sistema hace un resumen de lo anterior para no olvidar lo importante.
 
-![Chat tipo WhatsApp con globos de texto; una lupa sobre los últimos mensajes (ventana) y una caja de notas aparte (resumen)](img.png)
+![Chat tipo WhatsApp con globos de texto; una lupa sobre los últimos mensajes (ventana) y una caja de notas aparte (resumen)](/images/posts/ia/img.png)
 
 ---
 
@@ -36,7 +36,7 @@ Esta guía no es un glosario tradicional. Aquí no hay definiciones frías ni or
 
 * **Router**: El portero que decide si entras por la puerta A (workflow), B (tool), o llamamos al chef (agent).
 
-![Diagrama de flujo: filas de entrada, mostradores (router), distintos caminos con iconos (workflow, agentic, agent).](img_1.png)
+![Diagrama de flujo: filas de entrada, mostradores (router), distintos caminos con iconos (workflow, agentic, agent).](/images/posts/ia/img_1.png)
 
 ---
 
@@ -50,7 +50,7 @@ Esta guía no es un glosario tradicional. Aquí no hay definiciones frías ni or
 
 * **JSON Schema**: Lo que valida que los datos estén bien formados. Como un molde para rellenar correctamente.
 
-![Caja de herramientas etiquetadas, una calculadora, una lupa, un formulario con marcas de validación.](img_2.png)
+![Caja de herramientas etiquetadas, una calculadora, una lupa, un formulario con marcas de validación.](/images/posts/ia/img_2.png)
 
 ---
 
@@ -62,7 +62,7 @@ Esta guía no es un glosario tradicional. Aquí no hay definiciones frías ni or
 
 * **TTL (time to live)**: Tiempo que vive un dato antes de borrarse automáticamente.
 
-![Post-it en una pizarra con "Idioma: español", "Usuario: Juan"; reloj de arena sobre un dato para representar el TTL](img_3.png)
+![Post-it en una pizarra con "Idioma: español", "Usuario: Juan"; reloj de arena sobre un dato para representar el TTL](/images/posts/ia/img_3.png)
 
 ---
 
@@ -74,7 +74,7 @@ Esta guía no es un glosario tradicional. Aquí no hay definiciones frías ni or
 
 * **Timeouts**: Si algo tarda demasiado, se cancela. Evita que el sistema se quede "pensando para siempre".
 
-![Panel de control con medidores, un contador de tokens y un cronómetro con un símbolo de alerta](img_4.png)
+![Panel de control con medidores, un contador de tokens y un cronómetro con un símbolo de alerta](/images/posts/ia/img_4.png)
 
 ---
 

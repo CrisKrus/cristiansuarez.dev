@@ -19,7 +19,7 @@ En cuanto a mi ponencia, como podrás imaginar, trataba sobre **código sostenib
 
 Sé que no ha sido la mejor charla que he dado ni de lejos, pero sí que ha sido la que he preparado en menos tiempo 😂 y sobre un tema que no había presentado antes. También es cierto que no he podido nombrar todos los temas que me gustaría, porque son demasiados. Por suerte desde, [Lean Mind](https://bit.ly/3JwHHgL) hemos escrito un libro dónde están todos los consejos que te puedas imaginar, trozos de código, algún ejercicio y muchas historias sobre código sostenible. Para obtenerlo tan solo tienes que ir a [codigosostenible.com](https://bit.ly/3eDA4qC)
 
-![main.jpg](resources/main.jpg)
+![main.jpg](/images/posts/ponencia/main.jpg)
 
 Por suerte pude grabarme con el teléfono y se escucha más o menos bien, así que he podido hacer un montaje para subir a YouTube por si quieres verlo. Además de esto, todos los recursos (diapositivas y lo que tenía pensado decir) está en GitHub de manera pública. Te dejo todos los enlaces más adelante en este mismo artículo 😉
 

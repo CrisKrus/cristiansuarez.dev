@@ -22,9 +22,9 @@ Lo bueno que tiene los notebooks es que este proceso de lectura inicial queda ai
 
 De esta manera si borramos o modificamos la información que había en el conjunto inicial no necesitamos leer de nuevo desde el origen de los datos, ya que tenemos en memoria el conjunto de datos inicial en esta primera variable.
 
-![captura de código de inicialización del conjunto de datos](resources/inicializacion-de-datos.png)
+![captura de código de inicialización del conjunto de datos](/images/posts/big-data/inicializacion-de-datos.png)
 
-![grafica de lineas](resources/grafica-de-lineas.png)
+![grafica de lineas](/images/posts/big-data/grafica-de-lineas.png)
 
 En este caso podemos ver como tenemos un bloque inicial dónde cargamos las librerías y los datos con los que vamos a trabajar en la variable `df` y posteriormente hacemos una asignación en `wii_games` del sub-conjunto de datos
 
