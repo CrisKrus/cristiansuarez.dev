@@ -161,10 +161,6 @@ menu:
       name: Archivo
       url: /archive/
       weight: 30
-    - identifier: privacy
-      name: Privacidad
-      url: /privacy/
-      weight: 40
 #    - identifier: buscar
 #      name: buscar
 #      url: /search/
