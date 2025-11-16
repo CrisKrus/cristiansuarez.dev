@@ -1,7 +1,7 @@
 ---
 title: "Qué es un post-mortem y por qué es útil"
 slug: "operaciones/que-es-un-post-mortem-y-por-que-es-util"
-date: 2025-11-16T00:00:00.000Z
+date: 2025-10-16T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Aprende qué es un post-mortem, cómo transforma incidentes en aprendizaje organizacional y por qué es esencial para promover una cultura blameless que fortalece la resiliencia de tus sistemas."

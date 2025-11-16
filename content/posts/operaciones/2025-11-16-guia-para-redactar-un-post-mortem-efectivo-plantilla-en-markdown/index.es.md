@@ -1,7 +1,7 @@
 ---
 title: "Guía para redactar un post-mortem efectivo + Plantilla en Markdown"
 slug: "operaciones/guia-para-redactar-un-post-mortem-efectivo-plantilla-en-markdown"
-date: 2025-11-16T00:00:00.000Z
+date: 2025-10-16T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Guía práctica paso a paso para redactar post-mortems efectivos con una plantilla profesional en Markdown lista para usar. Incluye mejores prácticas y técnicas de análisis de causa raíz."
