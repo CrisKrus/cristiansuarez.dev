@@ -4,8 +4,9 @@ slug: "reflexión/este-mundo-no-es-en-blanco-y-negro"
 date: 2021-08-06T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [reflexión]
 summaryImage: "polaridad.jpeg"
+categories: [reflexión]
+tags: [pensamiento-crítico, desarrollo-personal, sesgos, reflexión]
 ---
 
 Últimamente no sé si es que mi círculo cercano está cambiando o que estoy viendo la vida de otra forma, pero me he percatado de que cada vez más la sociedad en la que vivimos intenta polarizar toda opinión que escucha.

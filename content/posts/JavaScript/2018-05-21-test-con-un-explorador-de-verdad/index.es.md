@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [javascript]
+tags: [testing, javascript, programación]
 ---
 
   Puedes ver como el explorador se abre y va haciendo clicks en los 

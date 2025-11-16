@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, peticiones, asertividad]
 ---
 
   > ¿Cómo hago lo que no hay que hacer? Lo único que sé es que no quiero hacer lo

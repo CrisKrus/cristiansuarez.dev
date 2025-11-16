@@ -4,8 +4,9 @@ slug: "big-data/graficas-de-relacion"
 date: 2021-06-03T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [big data, visualización de datos]
 summaryImage: "resources/untitled.png"
+categories: [big data, visualización de datos]
+tags: [correlación, gráficas, big-data, análisis, visualización, análisis-de-datos]
 ---
 
 Cuando nos enfrentamos a un conjunto de datos nuestro cerebro intenta crear relaciones entre los distintos conjuntos. Esto es normal, ya que como seres humanos que somos, siempre intentamos buscar una relación, es la forma que tenemos de asociar acciones. Si bebo agua me quita la sed, a mayor número de ventas de videojuegos en una consola más popular es ¿o no?

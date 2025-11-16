@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [toma de requisitos]
+tags: [análisis, conceptos-básicos, requisitos, fundamentos]
 ---
 
   Para una buena toma de requisitos hay que centrarse en __las 5 W__. Las cuales

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ruby]
+tags: [testing, programación, rspec, ruby]
 ---
 
 

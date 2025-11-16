@@ -4,9 +4,10 @@ slug: "docker/como-crear-mi-primer-contenedor"
 date: 2021-02-15T00:00:03.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [tutorial, contenedores, docker, devops]
 ---
 
 Ahora vamos a ver como crear nuestro primer contenedor, para ello primero debemos crear una imagen de la que partir, para esto crearemos un fichero de configuración Docker. Este fichero se llama `Dockerfile`, en él se indican todas las instrucciones que tiene que seguir para crear la imagen y su contenido.

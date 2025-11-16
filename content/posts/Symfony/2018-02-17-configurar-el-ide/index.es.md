@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [symfony]
+tags: [php, ide, symfony, configuración]
 ---
 
 En este caso usaré para el desarrollo el PhpStorm, instalaremos el __*plug-in*__ de Symfony desde

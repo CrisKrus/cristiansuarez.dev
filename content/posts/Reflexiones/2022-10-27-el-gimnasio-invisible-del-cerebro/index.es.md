@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Una reflexión sobre cómo entrenar la mente cuando no existen mancuernas ni rutinas visibles, y la metáfora del gimnasio se vuelve invisible."
 categories: [reflexion]
+tags: [hábitos, desarrollo-personal, mejora-continua, reflexión]
 ---
 
 Cuando pienso en entrenar el cuerpo, la imagen del gimnasio aparece enseguida. Máquinas, rutinas, series, repeticiones. Está claro cómo fortalecer un músculo. Sin embargo, cuando trato de pensar en algo equivalente para la mente, no existe un lugar físico con mancuernas para el cerebro. Eso no significa que no se pueda entrenar, solo que el entrenamiento adopta otra forma.

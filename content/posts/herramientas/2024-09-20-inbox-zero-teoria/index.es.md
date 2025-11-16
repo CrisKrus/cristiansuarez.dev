@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [herramientas]
+tags: [inbox-zero, herramientas, productividad, gmail]
 ---
 
 En un entorno saturado de correos electrónicos, el método Inbox Zero ofrece una solución pragmática basada en una filosofía: la bandeja de entrada no es una lista de tareas, sino un espacio para procesar información y decidir cuándo y cómo actuar.

@@ -4,8 +4,9 @@ slug: "docker/comandos-utiles"
 date: 2021-02-15T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [docker]
 summaryImage: "summary.png"
+categories: [docker]
+tags: [docker, almacenamiento, cli, volúmenes, devops, comandos]
 ---
 
 En el CLI de docker existen muchas opciones, aquí te dejo las que más suelo usar explicadas.

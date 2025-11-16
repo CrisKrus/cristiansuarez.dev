@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [proyectos]
+tags: [personal, desarrollo, proyectos]
 ---
 
   Este proyecto comenzó a inicios de 2016, un amigo (Pablo) y yo queríamos tener

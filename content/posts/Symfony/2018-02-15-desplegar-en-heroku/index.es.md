@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [symfony]
+tags: [php, heroku, symfony, deploy]
 ---
 
 Tras subir el proyecto a **Github**, podremos desplegarlo en Heroku de manera bastante sencilla.

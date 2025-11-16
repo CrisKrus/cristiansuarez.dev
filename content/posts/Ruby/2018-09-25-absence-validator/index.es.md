@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ruby]
+tags: [rails, programación, ruby]
 ---
 
 <!-- TODO what is the utility of this, my example of use is wrong as y mention

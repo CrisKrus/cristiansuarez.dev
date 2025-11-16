@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Comparativa visual y funcional entre Server-Sent Events (SSE), Webhooks y WebSockets para entender sus diferencias y casos de uso."
 categories: [arquitectura]
+tags: [tiempo-real, sse, arquitectura, webhooks, backend, websockets, comunicación]
 ---
 
 La comunicación en tiempo real es un requisito clave en las aplicaciones modernas. Desde actualizar interfaces al instante hasta integrar servicios externos o habilitar chats en vivo, los sistemas actuales necesitan enviar y recibir información sin depender de recargas manuales o peticiones constantes.

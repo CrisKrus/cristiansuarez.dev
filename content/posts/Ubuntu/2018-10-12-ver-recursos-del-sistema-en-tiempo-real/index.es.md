@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ubuntu]
+tags: [linux, ubuntu, sistema, monitorización]
 ---
 
 <!-- TODO screenshots -->

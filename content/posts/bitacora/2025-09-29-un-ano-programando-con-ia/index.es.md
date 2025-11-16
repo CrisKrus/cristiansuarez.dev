@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Un año de experimentos personales programando con IA: de Bolt.new, Lovable, Codespaces, Copilot, Claude Sonnet 4 y las expectativas con GPT-5 Codex."
 categories: [bitacora]
+tags: [aprendizaje, ia, experiencias, bitácora]
 ---
 
 Hace poco más de un año decidí lanzarme a un experimento personal: probar en primera persona cómo estaba evolucionando la programación asistida por inteligencia artificial. Había mucho ruido en torno al tema —que si la IA iba a quitarnos el trabajo, que si generaba código malo, que si era puro humo— y no quería quedarme solo con opiniones externas.

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, autocompasión, empatía]
 ---
 
   Quizás, la comunicación no violenta tenga su aplicación más importante en uno

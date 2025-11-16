@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [resumen, desarrollo-personal, retrospectiva, reflexión]
 ---
 
 Empecé este año con unos objetivos claros, pero sin saber como lograr alguno de ellos. Quería hacer **ejercicio** al menos la mitad de los días de la semana, ya que me paso muchas horas en frente del ordenador y no es muy sano que digamos... Quería tomarme más en serio las **lecturas** que empiezo y terminar al menos dos libros este año (uno tendría que ser técnico), quería **lanzar una aplicación** por mi cuenta o en equipo, algo que pueda decir "fui parte de ello", quería tener un **hábito de escritura** que me haga aprender a escribir mejor, quería (y casi era una obligación para lograr todos estos) aprender a **centrarme** en los objetivos que me marque cada día y, el que tenía más claro, **acabar el grado en ingeniería informática**.

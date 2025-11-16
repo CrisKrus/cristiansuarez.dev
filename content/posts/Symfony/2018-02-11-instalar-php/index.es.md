@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [symfony]
+tags: [php, symfony, instalación, setup]
 ---
 
 Instalar PHP y algún extra

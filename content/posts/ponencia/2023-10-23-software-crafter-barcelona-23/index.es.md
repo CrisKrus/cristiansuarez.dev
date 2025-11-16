@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Les cuento mi experiencia facilitando un taller en el evento de Barcelona Software Crafters 2023"
 categories: [ponencia]
+tags: [charlas, eventos, software-crafters, comunidad]
 ---
 
 El pasado 22 de octubre de 2023 facilité un taller en la conferencia de Software Crafters Barcelona. Salió bastante bien, gustó, 

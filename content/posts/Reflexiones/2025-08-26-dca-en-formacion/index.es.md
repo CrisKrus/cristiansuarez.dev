@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Formarse un poco cada día es invertir en uno mismo: el conocimiento crece como el capital a largo plazo."
 categories: [reflexión]
+tags: [aprendizaje, desarrollo-personal, reflexión, crecimiento]
 ---
 
 Quiero compartir una experiencia personal que me ha servido mucho en mi camino profesional. Igual que en el mundo de las finanzas existe el *Dollar Cost Averaging* (DCA) —esa estrategia de invertir pequeñas cantidades de forma constante en lugar de esperar el “momento perfecto”—, yo he descubierto que algo parecido aplica al aprendizaje.

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 Mi nombre es Cristian Suárez Vera soy un chico de 22 años, que si todo sale bien este 2018 será **Graduado en Ingeniería Informática**, residente en las Islas Canarias. Me gusta el mundo de la programación y el emprendimiento.

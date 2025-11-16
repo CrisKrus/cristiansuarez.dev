@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [javascript]
+tags: [testing, javascript, programación]
 ---
 
   Duplicar el codigo en un nuevo objeto, exportar este si no lo estaba para 

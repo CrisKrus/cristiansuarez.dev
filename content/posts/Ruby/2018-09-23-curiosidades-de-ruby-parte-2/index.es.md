@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ruby]
+tags: [características, tips, ruby, testing, rspec, programación]
 ---
 
 <!-- TODO: put on meta-description witch topics I told here  -->

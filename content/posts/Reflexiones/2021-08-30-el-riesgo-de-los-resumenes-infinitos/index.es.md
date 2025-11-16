@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Una reflexión sobre cómo en informática la técnica pierde su sentido cuando el mensaje original se diluye en resúmenes de resúmenes, y la importancia de recuperar el porqué detrás de cada práctica."
 categories: [reflexion]
+tags: [desarrollo-personal, reflexión]
 ---
 
 En el ámbito de la informática, como en muchos otros campos del conocimiento, la técnica suele ser lo más visible: comandos, algoritmos, frameworks, lenguajes, librerías. Son los elementos tangibles que se enseñan en manuales, tutoriales o cursos. Sin embargo, detrás de cada técnica existe un porqué: una motivación, un problema a resolver, una filosofía de diseño. Ese trasfondo se diluye cuando lo que llega al profesional es apenas un extracto de un extracto, una especie de “resumen de un resumen” que deja fuera la esencia.

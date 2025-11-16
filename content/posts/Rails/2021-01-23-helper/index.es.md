@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [rails]
+tags: [vistas, rails, helpers, ruby]
 ---
 
 

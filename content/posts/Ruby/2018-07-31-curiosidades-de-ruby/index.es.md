@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ruby]
+tags: [características, tips, ruby, rails, programación]
 ---
 
 

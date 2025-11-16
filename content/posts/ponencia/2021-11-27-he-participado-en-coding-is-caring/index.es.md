@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ponencia]
+tags: [charlas, eventos, comunidad]
 ---
 
 El pasado día 11 de Octubre de 2021 me invitaron al canal de [Twitch][directo] de CodignIsCaring con mis amigas Yodra y Maria. Hemos hablado de muchas cosas entre ellas IA y big data pero sobre todo nos hemos reído bastante.

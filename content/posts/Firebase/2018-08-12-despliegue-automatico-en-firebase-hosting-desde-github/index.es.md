@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [firebase]
+tags: [firebase, hosting, serverless, automatización, backend, functions, deploy]
 ---
 
 

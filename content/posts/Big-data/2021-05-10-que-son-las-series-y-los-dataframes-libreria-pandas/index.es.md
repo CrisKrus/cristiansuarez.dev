@@ -4,8 +4,9 @@ slug: "big-data/que-son-las-series-y-los-dataframes-libreria-pandas"
 date: 2021-05-10T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [big data]
 summaryImage: "summary.png"
+categories: [big data]
+tags: [pandas, big-data, análisis-de-datos, python]
 ---
 
 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) es la librería más usada en el mundo del big data si trabajamos con Python. Esta librería tiene unas entidades propias para gestionar los datos las cuales son similares a las que ya existen en el lenguaje. Esto me ha llamado la atención y es por ello que he investigado cuales son las principales diferencias entre las listas de una y dos dimensiones respecto a las series y dataframes.

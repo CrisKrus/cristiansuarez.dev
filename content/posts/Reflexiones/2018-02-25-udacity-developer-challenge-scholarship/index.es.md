@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 El pasado 3 de Noviembre me llegó un mensaje al correo que no me esperaba, Google me había seleccionado para Developer Challenge Scholarship, en el apartado de android. Hace dos años intenté hacer este mismo curso con mis compañeros de **Google Developer Group Gran Canaria** pero por esa época, sentía que no iba a ser capaz no tenía conocimientos. Excusas tontas, miedos sin sentido, pero ahora lo he enfocado de manera distinta y con muchas ganas.

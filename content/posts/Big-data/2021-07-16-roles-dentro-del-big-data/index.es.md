@@ -4,8 +4,9 @@ slug: "big-data/roles-dentro-del-big-data"
 date: 2021-07-16T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [big data]
 summaryImage: "summary.png"
+categories: [big data]
+tags: [profesional, big-data, análisis-de-datos, carrera]
 ---
 
 Es normal que en cualquier ámbito de la vida existan roles para definir el alcance y los límites que tiene una persona dentro de un contexto. En parte es lo que hacemos cuando le damos nombre a las profesiones, no tiene las mismas responsabilidades un desarrollador que un tester de calidad, por ejemplo.

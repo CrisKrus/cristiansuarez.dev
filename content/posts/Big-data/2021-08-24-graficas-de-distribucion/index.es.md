@@ -4,8 +4,9 @@ slug: "big-data/graficas-de-distribucion"
 date: 2021-08-24T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [big data, visualización de datos]
 summaryImage: "resources/histogram-vs-kde.png"
+categories: [big data, visualización de datos]
+tags: [distribución, estadística, gráficas, big-data, visualización, análisis-de-datos]
 ---
 
 Existen multitud de gráficos para visualizar la distribución de nuestros datos y poder ver patrones. Hoy le toca el turno a dos gráficos con los que podremos ver de mejor forma como se distribuye la frecuencia de aparición de una variable respecto de otra. Estamos hablando del histograma (histogram) y el kernel density estimate (KDE, no sé cómo traducirlo 🤷‍♀️)

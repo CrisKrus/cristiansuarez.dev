@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, empatía, escucha]
 ---
 
   __Parafrasear__ lo que nos ha dicho el interlocutor puede ser de ayuda, ya que

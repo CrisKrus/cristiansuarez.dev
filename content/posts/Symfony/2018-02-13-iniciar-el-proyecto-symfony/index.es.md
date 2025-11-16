@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [symfony]
+tags: [tutorial, php, symfony, primeros-pasos]
 ---
 
 Estando en el directorio en el que queremos crear el proyecto ejecutamos

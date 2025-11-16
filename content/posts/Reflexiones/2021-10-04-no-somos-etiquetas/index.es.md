@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Una reflexión directa sobre por qué dejar de clasificarnos en grupos y abrazar la complejidad humana."
 categories: [reflexion]
+tags: [identidad, autoconocimiento, desarrollo-personal, reflexión]
 ---
 
 Nos gustan las etiquetas sociales: pertenecer a un grupo nos da seguridad. Pero la realidad es que cada individuo tiene múltiples facetas, contradicciones, cambios. Por eso resulta injusto —y limitado— clasificarnos rígidamente en grupos según comportamientos.

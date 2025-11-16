@@ -4,9 +4,10 @@ slug: "docker/optimizacion-de-imagenes"
 date: 2021-02-15T00:00:04.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [optimización, buenas-prácticas, docker, devops]
 ---
 
 En este artículo veremos un comportamiento importante a la hora de crear nuestras imágenes.

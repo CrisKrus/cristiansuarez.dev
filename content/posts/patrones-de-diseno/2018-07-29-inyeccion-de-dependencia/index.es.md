@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [patrones de diseño]
+tags: [inyección-dependencias, buenas-prácticas, solid, patrones-diseño]
 ---
 
 

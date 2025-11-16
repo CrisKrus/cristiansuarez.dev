@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, clean code]
+tags: [clean-code, buenas-prácticas, concurrencia, multithreading]
 ---
 
 

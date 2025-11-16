@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [javascript]
+tags: [javascript, programación]
 ---
 
 

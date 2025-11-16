@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [symfony]
+tags: [mvc, php, symfony, controladores]
 ---
 
 Para crear nuestra primera página basta con crear un nuevo documento PHP

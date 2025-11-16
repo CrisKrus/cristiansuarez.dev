@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [herramientas]
+tags: [inbox-zero, herramientas, productividad, gmail]
 ---
 
 Gmail ofrece herramientas perfectas para llevar Inbox Zero a la práctica de forma eficaz. Estos pasos reflejan una combinación de buenas prácticas y experiencia directa.

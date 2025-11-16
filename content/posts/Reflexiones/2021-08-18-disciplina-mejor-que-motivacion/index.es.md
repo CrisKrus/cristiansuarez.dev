@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 Últimamente me han preguntado varias veces como consigo sacar tiempo y ganas después del trabajo para lograr seguir un rato más generando contenido. Aparte de esto me he topado con varias publicaciones y vídeos motivacionales hablando de lo importante que es estar motivado, tener un trabajo que te encante para disfrutar cada día, etc. 😃

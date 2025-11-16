@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [javascript]
+tags: [módulos, testing, javascript, programación]
 ---
 
   Vamos a probar el modulo que hemos sacado en la parte anterior del juego

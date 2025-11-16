@@ -4,8 +4,9 @@ slug: "big-data/cual-es-la-diferencia-entre-variables-cuantitativas-y-cualitativ
 date: 2021-05-11T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [big data]
 summaryImage: "summary.png"
+categories: [big data]
+tags: [big-data, análisis-de-datos]
 ---
 
 Cuando estamos trabajando con datos más temprano que tarde nos damos cuenta de que no todos los datos son iguales. Desde el tipo del dato (número, cadena de texto, número natural, etc.) hasta la forma de interpretar que tenemos esas mismas variables. No es lo mismo el número de quejas sobre un tema que el tamaño de una carretera. Estas diferencias tienen un nombre el cual vamos a explicar hoy.

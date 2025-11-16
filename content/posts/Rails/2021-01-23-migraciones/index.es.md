@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [rails]
+tags: [base-de-datos, rails, migraciones, ruby]
 ---
 
 

@@ -4,8 +4,9 @@ slug: "big-data/porque-me-gustan-los-notebooks-de-jupiter"
 date: 2021-05-19T00:00:00.000Z
 draft: false
 hideLastModified: false
-categories: [big data]
 summaryImage: "resources/grafica-de-lineas.png"
+categories: [big data]
+tags: [notebooks, big-data, análisis-de-datos, jupyter]
 ---
 
 Cuando me inicié en este mundo no tenía claro que diferenciaba un notebook de un script de Python con texto de por medio. Ahora que ya he normalizado su uso puedo mirar atrás y comentar las principales ventajas que le veo.

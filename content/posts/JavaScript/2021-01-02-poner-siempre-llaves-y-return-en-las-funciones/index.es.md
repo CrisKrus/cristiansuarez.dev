@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [javascript]
+tags: [javascript, programación]
 ---
 
 Ejemplo sobre porque es relevante poner las llaves y el return en javascript cuando definimos una función.

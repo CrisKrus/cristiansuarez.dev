@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [resumen, desarrollo-personal, retrospectiva, reflexión]
 ---
 
   Hola voy a intentar ponerte al día lo más rápido que pueda de estos cuatro

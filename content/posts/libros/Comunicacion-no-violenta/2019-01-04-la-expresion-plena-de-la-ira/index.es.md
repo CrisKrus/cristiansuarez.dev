@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, ira, emociones]
 ---
 
   Para expresar la __ira__ con la comunicación no violenta tenemos que
