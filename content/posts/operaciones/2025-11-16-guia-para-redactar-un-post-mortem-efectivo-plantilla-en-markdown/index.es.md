@@ -48,7 +48,7 @@ Resume qué ha aprendido el equipo y qué cambios se derivarán en procesos, her
 Evita suposiciones, juicios personales, explicaciones vagas y lenguaje emocional.
 La claridad es esencial para que cualquier lector pueda comprender el incidente sin haber participado en él.
 
-## Plantilla profesional de Post-Mortem (Markdown)
+## Plantilla de Post-Mortem (Markdown)
 
 ```md
 # Post-Mortem del Incidente: [Título]

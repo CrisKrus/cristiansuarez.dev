@@ -11,7 +11,7 @@ tags: [post-mortem, incidentes, blameless, aprendizaje]
 
 En el ámbito de la ingeniería de software, la gestión de servicios y la operación de sistemas críticos, los documentos de post-mortem se han consolidado como una herramienta esencial para transformar incidentes en aprendizaje organizacional. Lejos de ser simples reportes retrospectivos, constituyen un mecanismo formal para comprender errores, mejorar procesos y promover una cultura de mejora continua.
 
-Qué es un post-mortem
+## Qué es un post-mortem
 
 Un documento de post-mortem es un análisis estructurado que se elabora después de un incidente, fallo o evento no deseado en un sistema o proyecto. Su propósito es explicar qué ocurrió, identificar las causas raíz y definir acciones concretas para evitar que el problema vuelva a reproducirse.
 
@@ -19,7 +19,7 @@ Más que un informe técnico, es un ejercicio de reflexión colectiva. Su valor 
 
 “Un post-mortem bien elaborado convierte un error costoso en una inversión en conocimiento.”
 
-Por qué son útiles
+## Por qué son útiles
 
 Los beneficios de realizar post-mortems de forma consistente son amplios y profundos:
 
@@ -43,7 +43,7 @@ Un reporte claro y bien redactado permite que cualquier miembro de la organizaci
 
 Los post-mortems generan evidencia útil para priorizar deuda técnica, justificar mejoras, solicitar recursos o refinar procesos de desarrollo y despliegue.
 
-Conclusión
+## Conclusión
 
 Los post-mortems son una herramienta estratégica para cualquier organización que aspire a la excelencia técnica. Transforman fallos en conocimiento, mejoran la resiliencia del sistema y fomentan una cultura de aprendizaje permanente. Adoptar una metodología de post-mortem consistente no solo previene futuros incidentes, sino que fortalece la capacidad colectiva de anticipar, responder y evolucionar.
 
