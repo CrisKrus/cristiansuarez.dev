@@ -143,6 +143,11 @@ params:
     ignoreFieldNorm: false
     keys: ["title", "permalink", "summary", "content"]
 
+taxonomies:
+  category: categories
+  tag: tags
+  author: authors
+
 menu:
   main:
     - identifier: About
