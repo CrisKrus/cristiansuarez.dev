@@ -6,4 +6,4 @@ hideLastModified: false
 categories: [frase]
 ---
 
-El éxito tiene muchos padres, pero el fracaso es huérfano.
+> El éxito tiene muchos padres, pero el fracaso es huérfano.

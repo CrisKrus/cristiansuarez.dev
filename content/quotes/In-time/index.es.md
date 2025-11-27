@@ -6,4 +6,4 @@ hideLastModified: false
 categories: [frase]
 ---
 
-Para que unos pocos sean inmortales, muchos deben morir.
+> Para que unos pocos sean inmortales, muchos deben morir.

@@ -6,4 +6,4 @@ hideLastModified: false
 categories: [frase]
 ---
 
-Remember, teamwork begins by building trust. And the only way to o that is to overcome our need for invulnerability.
+> Remember, teamwork begins by building trust. And the only way to o that is to overcome our need for invulnerability.

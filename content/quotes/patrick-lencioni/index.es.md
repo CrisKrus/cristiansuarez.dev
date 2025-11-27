@@ -6,4 +6,4 @@ hideLastModified: false
 categories: [frase]
 ---
 
-Recuerda, el trabajo en equipo comienza construyendo confianza. Y la única forma de hacerlo es superar nuestra necesidad de invulnerabilidad.
+> Recuerda, el trabajo en equipo comienza construyendo confianza. Y la única forma de hacerlo es superar nuestra necesidad de invulnerabilidad.
