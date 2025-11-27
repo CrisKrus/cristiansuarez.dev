@@ -19,6 +19,18 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languageCode: es
+defaultContentLanguage: es
+defaultContentLanguageInSubdir: false
+
+languages:
+  es:
+    languageName: Español
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+
 permalinks:
   posts: "/:slug/"
 
