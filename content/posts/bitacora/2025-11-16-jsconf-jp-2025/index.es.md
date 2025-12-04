@@ -12,6 +12,24 @@ Hoy he vivido una de esas jornadas que mezclan contenido técnico, diferencias c
 
 ⸻
 
+## Sábado: Pre-evento en Google Tokyo
+
+El sábado anterior fue el turno del pre-evento, una cita previa a la conferencia principal que merecía su propia atención. Fue celebrado en las oficinas de Google en Tokio, ubicadas en una planta tan alta que la vista desde las ventanas era uno de esos panoramas que solo existen en grandes ciudades japonesas.
+
+Al llegar, recibimos las credenciales típicas de edificios de esta escala: tarjetas magnéticas que controlan el acceso a las zonas permitidas. Subimos en ascensor y nos encontramos con una distribución particularmente interesante del espacio.
+
+La sala estaba organizada alrededor de una zona central con comida y bebidas variadas, flanqueada por dos áreas bien diferenciadas: mesas y sillas en el lado derecho, y el lado izquierdo donde se proyectaban las lightning talks en dos televisores —una en cada extremo de la sala- esta división no era casual.
+
+Después de la primera sesión de charlas, el organizador explicó la filosofía del evento: la idea era que los asistentes estuviesen comiendo, bebiendo y conversando mientras alguien presentaba, sin necesidad de prestar el 100% de atención. Sin embargo, notó que algo no funcionaba como se esperaba en esa primera ronda. Así que replanteó la dinámica: el lado izquierdo, donde estaba el ponente, prestaría más atención a las presentaciones. El lado derecho apagaría su televisor para que quienes quisieran permanecer allí pudiesen seguir conversando sin interrupciones.
+
+Las charlas se alternaban entre inglés y japonés. Junto a Airán Sánchez asistimos a varias de ellas, aunque pasamos buena parte del tiempo conversando con miembros de la organización y otros asistentes: algunos procedentes de Singapur, otros viviendo en Japón siendo originarios de Argentina. Las historias que compartían revelaban esa característica peculiar de los eventos tech internacionales: encuentros breves pero intensos entre personas de contextos completamente distintos.
+
+La forma en que estaba organizado el pre-evento resultaba curiosa, diferente a cualquier cosa que hubiese visto antes. No era el típico networking event, ni tampoco una conferencia formal. Era algo intermedio, algo más orgánico.
+
+⸻
+
+## Domingo: Evento principal
+
 10:10 — Arranque del día: Passwordless in Production
 
 La mañana comenzó con una sesión centrada en las passkeys y la transición hacia la autenticación sin contraseñas. Se explicó cómo las credenciales [WebAuthn](https://webauthn.io/) están ligadas al dominio mediante el RPID, cómo se genera el challenge en cada inicio de sesión y cómo los dispositivos almacenan la clave privada para firmarlo.
