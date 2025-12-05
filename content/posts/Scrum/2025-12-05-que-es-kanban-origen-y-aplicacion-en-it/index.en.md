@@ -5,7 +5,7 @@ date: 2025-12-05T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Discover what Kanban is, its origin in the Japanese manufacturing industry, how it has been adapted to software development, and a critical reflection on its application in the IT sector."
-categories: [scrum, methodologies]
+categories: [scrum]
 tags: [kanban, agile, methodologies, lean, project-management]
 ---
 

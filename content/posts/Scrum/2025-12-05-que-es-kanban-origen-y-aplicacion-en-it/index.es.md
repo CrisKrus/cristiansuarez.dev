@@ -5,7 +5,7 @@ date: 2025-12-05T00:00:00.000Z
 draft: false
 hideLastModified: false
 summary: "Descubre qué es Kanban, su origen en la industria manufacturera japonesa, cómo se ha adaptado al desarrollo de software y una reflexión crítica sobre su aplicación en el sector IT."
-categories: [scrum, metodologías]
+categories: [scrum]
 tags: [kanban, agile, metodologías, lean, gestión-de-proyectos]
 ---
 
