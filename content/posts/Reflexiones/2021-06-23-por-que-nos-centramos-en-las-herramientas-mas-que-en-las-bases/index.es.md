@@ -8,7 +8,7 @@ summary: "Reflexión sobre cómo nos centramos en buscar herramientas antes de e
 categories: [reflexión]
 ---
 
-Últimamente me he encontrado con situaciones en las que muchos equipos se centran en buscar la herramienta perfecta para resolver un problema sin antes entender realmente cual es el problema que tienen 🤔
+Últimamente me he encontrado con situaciones en las que muchos equipos se centran en buscar la herramienta perfecta para resolver un problema sin antes entender realmente cuál es el problema que tienen 🤔
 
 Me ha llamado mucho la atención un artículo de medium titulado [Why Your Data Strategy is Failing](https://medium.com/geekculture/why-your-data-strategy-is-failing-19e569b6b082) que habla precisamente de esto. Nos centramos muchísimo en las herramientas para poder "hacer mejor" X tarea antes de saber el porqué lo hacemos, buscarle el sentido y ver por qué falla.
 
