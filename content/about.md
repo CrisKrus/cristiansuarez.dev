@@ -19,6 +19,7 @@ Encuéntrame en estas plataformas:
 ### 💼 Profesional
 - [LinkedIn](https://www.linkedin.com/in/cristian-suarez-vera/) - Conectemos profesionalmente
 - [GitHub](https://github.com/CrisKrus) - Revisa mi código y proyectos
+- [Email](mailto:mail@criskrus.com) - Escríbeme directamente
 
 ### 📱 Redes Sociales
 - [Twitter](https://twitter.com/criskrus995) - Sígueme para actualizaciones

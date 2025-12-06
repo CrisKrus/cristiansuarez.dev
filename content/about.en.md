@@ -14,6 +14,7 @@ Find me on these platforms:
 ### 💼 Professional
 - [LinkedIn](https://www.linkedin.com/in/cristian-suarez-vera/) - Let's connect professionally
 - [GitHub](https://github.com/CrisKrus) - Check out my code and projects
+- [Email](mailto:mail@criskrus.com) - Contact me directly
 
 ### 📱 Social Media
 - [Twitter](https://twitter.com/criskrus995) - Follow my thoughts and updates
