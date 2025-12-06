@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [resumen, desarrollo-personal, retrospectiva, reflexión]
 ---
 
   "Quien mucho abarca poco aprieta" Esta es la frase que resume este año 2018

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Reflexión sobre cómo ser un ejemplo para otros puede generar presión y responsabilidad inesperada."
 categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 No sé en que momento alguien decide tomarme como ejemplo en cualquier ámbito. Hace poco he visto a compañeros y amigos cercanos que actúan de forma similar a mi en algunas situaciones pero no le había dado mucha importancia pues claro, al final todos (incluido yo) nos fijamos en nuestro ambiente y terminamos actuando de formas similares.

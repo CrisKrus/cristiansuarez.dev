@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, agradecimiento, gratitud]
 ---
 
   "Tu informe es muy bueno."

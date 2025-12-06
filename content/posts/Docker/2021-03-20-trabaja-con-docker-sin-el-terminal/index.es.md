@@ -4,9 +4,10 @@ slug: "docker/trabaja-con-docker-sin-el-terminal"
 date: 2021-03-20T00:00:00.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [docker, devops]
 ---
 
 Si eres de esas personas que no le gusta mucho trabajar desde el terminal o, simplemente tienes un día en el que no te apetece escribir mucho, estás de enhorabuena. Existen varias extensiones tanto para Visual Studio Code como intellij con las que podrás gestionar docker, sus contenedores y mucho más.

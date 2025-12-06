@@ -4,8 +4,9 @@ slug: "big-data/comprendiendo-los-heatmap-mapa-de-calor"
 date: 2021-04-20T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [big data, visualización de datos]
 summaryImage: "heatmap-game-sales.png"
+categories: [big data, visualización de datos]
+tags: [heatmap, big-data, visualización, análisis-de-datos]
 ---
 
 Este tipo de gráfico, mapa de calor, es muy útil a la hora de comparar valores

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Cómo diseñar un asistente vertical con LangChain4j que combina herramientas, memoria estructurada y lógica determinista para ofrecer recomendaciones personalizadas."
 categories: [ia]
+tags: [ejemplo-práctico, tutorial, agentes, asistente, langchain, llm, inteligencia-artificial]
 ---
 
 ## Caso práctico con LangChain4j: asistente vertical con cálculos y preferencias

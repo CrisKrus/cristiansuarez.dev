@@ -4,9 +4,10 @@ slug: "ponencia/cesinf-2021-codigo-sostenible"
 date: 2021-12-02T00:00:00.000Z
 draft: false
 hideLastModified: false
-summary: ""
 summaryImage: "resources/main.jpg"
+summary: ""
 categories: [ponencia]
+tags: [charlas, eventos, cesinf, universidad]
 ---
 
 El pasado día 2 de diciembre me brindaron la oportunidad de participar en el [VII congreso de estudiantes de ingeniería informática](https://www.cesinfull.com/) (CESINF) en la universidad de la laguna, Tenerife.

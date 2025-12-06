@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, transformación, crecimiento]
 ---
 
   En ciertas situaciones no somos conscientes ni nosotros mismos del "mal",

@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [big data, jupyter notebook]
+tags: [notebooks, big-data, análisis-de-datos, jupyter]
 ---
 
 Últimamente, a Medea que voy avanzando en el mundo del big data, me voy alejando del inicio del sistema como ingeniero de datos y me acerco un poco más a la parte de análisis de datos he visto que gusta bastante explorar datos e incluso desarrollar ciertas partes con Jupyter Notebooks. Esto, persé, no es un problema soy defensor de los Notebooks bajo situaciones concretas.

@@ -4,9 +4,10 @@ slug: "docker/que-es-docker"
 date: 2021-02-15T00:00:00.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [docker, devops]
 ---
 
 Docker es la forma de tener una misma configuración de un proyecto independientemente de la máquina o el sistema en el que te encuentres, siempre que tenga Docker instalado. Facilitando así los despliegues y desarrollos de aplicaciones.

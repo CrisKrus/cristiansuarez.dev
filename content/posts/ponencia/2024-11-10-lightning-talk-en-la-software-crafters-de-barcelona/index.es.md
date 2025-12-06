@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Hablar 7 minutos sobre TDD en la Software Crafters Barcelona fue más difícil de lo que pensaba: condensar, priorizar y aprender a confiar en lo breve."
 categories: [ponencia]
+tags: [charlas, eventos, lightning-talk, experiencia]
 ---
 
 El año pasado tuve la oportunidad de dar una **lightning talk** en la Software Crafters Barcelona 2024. Para mí este evento tiene un valor especial: siempre ha sido un punto de encuentro con la comunidad, un lugar donde compartir aprendizajes y volver a la esencia del *software craftsmanship*. Por eso decidí preparar una charla corta sobre un tema básico pero fundamental: el **TDD**.

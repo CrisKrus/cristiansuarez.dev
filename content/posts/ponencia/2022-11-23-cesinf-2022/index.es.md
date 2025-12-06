@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [ponencia]
+tags: [charlas, eventos, cesinf, universidad]
 ---
 
 Otro año más que la organización del [CESINF](https://www.cesinfull.com/) ha querido contar conmigo. Este año, he querido aportar mi granito de arena hablando de un tema transversal que se está normalizando cada vez más y he notado, hablando con amigos y conocidos, que no siempre lo llevamos de la mejor forma. ¿A que qué refiero? Al trabajo remoto.

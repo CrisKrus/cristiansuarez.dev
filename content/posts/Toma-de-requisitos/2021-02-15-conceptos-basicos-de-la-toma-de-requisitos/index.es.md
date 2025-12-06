@@ -4,9 +4,10 @@ slug: "toma-de-requisitos/conceptos-basicos-de-la-toma-de-requisitos"
 date: 2021-02-15T00:00:01.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [toma de requisitos]
-summaryImage: "summary.png"
+tags: [análisis, conceptos-básicos, requisitos, fundamentos]
 ---
 
 Antes de empezar necesitamos tener una serie de conceptos claros que nombraremos bastante a menudo. Estos son **imagen**, **contenedor** y **volumen**. Estas palabras las usaremos con frecuencia, ya que son la base de Docker.

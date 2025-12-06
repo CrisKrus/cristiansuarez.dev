@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 El pasado 8 de Marzo asistí a mi primer [Hackaton](http://hackforgood.net/las-palmas/) junto a mi compañero de batalla [Javier Santana](https://twitter.com/MrIvaj). La primera sorpresa fue nada más llegar, íbamos con una idea preconcebida de encontrar una gran cantidad de frikis de la informática allí, realmente si lo pienso ahora en frío no se porqué, pero fue todo lo contrario encontramos personas de muchas disciplinas dirección de empresas, magisterio, diseño, incluso un profesional que venía huyendo del día a día de su trabajo quería desconectar y pensar en nuevos retos.

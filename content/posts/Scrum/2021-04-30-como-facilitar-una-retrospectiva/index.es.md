@@ -4,8 +4,9 @@ slug: "scrum/como-facilitar-una-retrospectiva"
 date: 2021-04-30T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [scrum, sesiones]
 summaryImage: "resources/reunion.png"
+categories: [scrum, sesiones]
+tags: [agile, facilitación, retrospectiva, scrum]
 ---
 
 Hoy en día raro es el equipo en el que trabajamos y no usa las ceremonias "típicas", o alguna de ellas, provenientes del framework Scrum. Hablamos de reunión diaria, planificación del sprint, revisión del sprint, retrospectiva, etc. También conocidas en Inglés como *daily meeting, sprint planning, retrospective*, etc.

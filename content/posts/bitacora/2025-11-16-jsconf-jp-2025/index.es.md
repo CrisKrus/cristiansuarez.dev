@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Bitácora completa de JSConf JP 2025: desde passkeys y Qwik hasta tendencias del ecosistema web, desarrollo asistido por IA y las diferencias culturales entre eventos tech en Japón y España."
 categories: [bitacora]
+tags: [conferencia, jsconf, experiencias, bitácora]
 ---
 
 Hoy he vivido una de esas jornadas que mezclan contenido técnico, diferencias culturales y pequeños descubrimientos que solo se aprecian cuando estás dentro del ambiente de una conferencia internacional. Esta es mi bitácora del día, tal y como lo fui anotando.

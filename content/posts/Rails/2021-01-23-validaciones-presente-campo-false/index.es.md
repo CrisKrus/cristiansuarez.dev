@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [rails]
+tags: [modelos, rails, validaciones, ruby]
 ---
 
   Si tenemos un campo booleano en nuestro modelo que queremos que sea

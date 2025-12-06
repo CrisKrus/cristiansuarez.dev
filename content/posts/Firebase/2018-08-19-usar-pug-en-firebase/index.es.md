@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [firebase]
+tags: [pug, firebase, hosting, serverless, backend, functions, deploy]
 ---
 
 

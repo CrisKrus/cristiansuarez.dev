@@ -4,9 +4,10 @@ slug: "docker/como-funciona-docker"
 date: 2021-02-15T00:00:02.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [arquitectura, docker, devops, conceptos]
 ---
 
 Para comenzar basta con instalar Docker en nuestra máquina. Dependiendo de nuestro sistema operativo tendremos que seguir unos pasos u otros. La [documentación oficial de Docker](https://docs.docker.com/install/#supported-platforms) es muy buena y nos hará de guía en este proceso.

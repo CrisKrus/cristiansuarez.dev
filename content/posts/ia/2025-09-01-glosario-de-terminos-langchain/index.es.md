@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: "Glosario visual y funcional de conceptos clave en LangChain4j, con ejemplos y sugerencias para presentaciones y formación."
 categories: [ia]
+tags: [llm, langchain, inteligencia-artificial, ia]
 ---
 
 ## Guía visual y explicativa para no perderte en el mundo agentic (LangChain4j edition)

@@ -4,9 +4,10 @@ slug: "docker/persistencia"
 date: 2021-03-20T00:00:01.000Z
 draft: false
 hideLastModified: false
+summaryImage: "summary.png"
 summary: ""
 categories: [docker]
-summaryImage: "summary.png"
+tags: [volúmenes, docker, devops, almacenamiento]
 ---
 
 He escuchado varias veces decir que alguien no usa Docker porque al borrar el contenedor o al parar una base de datos toda la información se perderá en el olvido pero, nada más lejos de la realidad. Docker persiste la información en nuestro sistema no lo crea y lo mantiene en un limbo virtual 👻

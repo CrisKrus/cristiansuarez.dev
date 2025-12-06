@@ -4,8 +4,9 @@ slug: "reflexión/escribir-correos-con-sentido"
 date: 2021-04-23T00:00:07.000Z
 draft: false
 hideLastModified: false
-categories: [reflexión]
 summaryImage: "mailing.jpeg"
+categories: [reflexión]
+tags: [desarrollo-personal, reflexión]
 ---
 
 Hace unas semanas desde [English 4 Devs][english-4-devs] me invitaron a una sesión sobre hablar en público. De primeras pensaba que sería una como tantas con los mismos tres consejos, pero... nada de eso 😁 Fue una sesión muy interactiva, con ejercicios por medio para poner en práctica lo aprendido y poder asentar mejor las ideas.

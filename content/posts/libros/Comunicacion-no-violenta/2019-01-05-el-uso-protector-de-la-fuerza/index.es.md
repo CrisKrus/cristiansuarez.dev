@@ -6,6 +6,7 @@ draft: false
 hideLastModified: false
 summary: ""
 categories: [libros, comunicación no violenta]
+tags: [cnv, comunicación, límites, protección]
 ---
 
   Existen situaciones, __excepcionales__, em las cuales el uso de la fuerza es
