@@ -178,10 +178,10 @@ menu:
       name: Archivo
       url: /archive/
       weight: 30
-#    - identifier: buscar
-#      name: buscar
-#      url: /search/
-#      weight: 99
+    - identifier: buscar
+      name: Buscar
+      url: /search/
+      weight: 99
     #    - identifier: tags
     #      name: tags
     #      url: /tags/
