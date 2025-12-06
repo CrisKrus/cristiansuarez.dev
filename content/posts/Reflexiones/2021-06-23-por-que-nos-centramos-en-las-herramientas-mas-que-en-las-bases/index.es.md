@@ -4,7 +4,7 @@ slug: "reflexion/por-que-nos-centramos-en-las-herramientas-mas-que-en-las-bases"
 date: 2021-06-23T00:00:00.000Z
 draft: false
 hideLastModified: false
-summary: ""
+summary: "Reflexión sobre cómo nos centramos en buscar herramientas antes de entender realmente el problema que queremos resolver."
 categories: [reflexión]
 ---
 

@@ -4,7 +4,7 @@ slug: "ponencia/como-ser-un-speaker"
 date: 2023-06-03T00:00:00.000Z
 draft: false
 hideLastModified: false
-summary: "Reflexión sobre cómo empezar en el mundo de las conferencias y qué consejos útiles he recibido de otros speakers."
+summary: "Consejos y recursos para empezar a dar charlas en conferencias, desde cómo mandar propuestas hasta tener charlas preparadas."
 categories: [ponencia]
 ---
 
