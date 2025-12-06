@@ -23,4 +23,4 @@ hugo.linux
 /.idea/vcs.xml
 
 .DS_Store
-*.loghugo_extended_*.tar.gz
+*.log
