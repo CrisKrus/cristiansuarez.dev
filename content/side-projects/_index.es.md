@@ -39,6 +39,13 @@ La mayoría tienen bitácoras, notas o reflexiones asociadas.
 - **Rol:** facilitador y organizador.
 - **Bitácora:** [ver entradas](/side-projects/socracan/)
 
+### Junteo
+
+- **Tipo:** App para organizar y gestionar eventos comunitarios.
+- **Estado:** laboratorio de producto en diseño.
+- **Rol:** producto, diseño, investigación.
+- **Bitácora:** [ver entradas](/side-projects/junteo/)
+
 ---
 
 ## 🧱 Otros experimentos pasados

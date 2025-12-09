@@ -38,6 +38,13 @@ Some are active, some are paused, some are mostly lessons.
 - **Role:** Facilitator & organizer.
 - **Log:** [see entries](/side-projects/socracan/)
 
+### Junteo
+
+- **Type:** App to organize and manage community events.
+- **Status:** product lab in design phase.
+- **Role:** product, design, research.
+- **Log:** [see entries](/side-projects/junteo/)
+
 ---
 
 ## 🧱 Other past experiments
