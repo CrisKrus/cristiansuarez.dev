@@ -1,6 +1,6 @@
 ---
-title: "Title 1"
-slug: "javascript/title-1"
+title: "Código reutilizable"
+slug: "javascript/codigo-reutilizable"
 date: 2018-06-05T23:00:00.000Z
 draft: false
 hideLastModified: false
@@ -16,4 +16,3 @@ tags: [javascript, programación]
   Cuando trabajamos es mejor si lo hacemos con objetos propios
   de nuestro dominio. En vez de usar objetos del lenguaje, como arrays o
   strings.
-
