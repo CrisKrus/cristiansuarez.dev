@@ -1,0 +1,82 @@
+<svg width="1400" height="450" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family:Arial,sans-serif; font-size:38px; font-weight:bold; fill:#222; }
+    .subtitle { font-family:Arial,sans-serif; font-size:20px; fill:#666; }
+    .label { font-family:Arial,sans-serif; font-size:24px; font-weight:bold; fill:white; }
+    .note { font-family:Arial,sans-serif; font-size:18px; fill:#444; }
+    .arrow { stroke:#555; stroke-width:4; marker-end:url(#arrow); }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L0,8 L10,4 z" fill="#555"></path>
+    </marker>
+  </defs>
+
+  <text x="700" y="60" text-anchor="middle" class="title">
+    Regla de derecha a izquierda
+  </text>
+
+  <text x="700" y="95" text-anchor="middle" class="subtitle">
+    Jorge Barroso · BilboStack 2026
+  </text>
+
+  <!-- Nueva tarea -->
+  <rect x="40" y="150" width="280" height="90" rx="12" fill="#95A5A6"></rect>
+  <text x="180" y="205" text-anchor="middle" class="label">
+    NUEVA TAREA
+  </text>
+
+  <text x="180" y="280" text-anchor="middle" class="note">
+    Puede esperar
+  </text>
+
+  <!-- Arrow -->
+  <line x1="320" y1="195" x2="390" y2="195" class="arrow"></line>
+
+  <!-- Desarrollo -->
+  <rect x="390" y="150" width="280" height="90" rx="12" fill="#3498DB"></rect>
+  <text x="530" y="205" text-anchor="middle" class="label">
+    DESARROLLO
+  </text>
+
+  <text x="530" y="280" text-anchor="middle" class="note">
+    Ya hay trabajo invertido
+  </text>
+
+  <!-- Arrow -->
+  <line x1="670" y1="195" x2="740" y2="195" class="arrow"></line>
+
+  <!-- PR -->
+  <rect x="740" y="150" width="280" height="90" rx="12" fill="#F39C12"></rect>
+  <text x="880" y="205" text-anchor="middle" class="label">
+    PULL REQUEST
+  </text>
+
+  <text x="880" y="280" text-anchor="middle" class="note">
+    Puede estar bloqueando a alguien
+  </text>
+
+  <!-- Arrow -->
+  <line x1="1020" y1="195" x2="1090" y2="195" class="arrow"></line>
+
+  <!-- Producción -->
+  <rect x="1090" y="150" width="280" height="90" rx="12" fill="#E74C3C"></rect>
+  <text x="1230" y="205" text-anchor="middle" class="label">
+    🔥 PRODUCCIÓN
+  </text>
+
+  <text x="1230" y="280" text-anchor="middle" class="note">
+    Impacta al cliente
+  </text>
+
+  <!-- Bottom annotation -->
+  <text x="700" y="370" text-anchor="middle" style="font-family:Arial;font-size:28px;font-weight:bold;fill:#222;">
+    Lo que está más a la derecha tiene prioridad
+  </text>
+
+  <text x="700" y="410" text-anchor="middle" style="font-family:Arial;font-size:18px;fill:#666;">
+    Si aparece algo más a la derecha, deja lo que estás haciendo
+  </text>
+
+</svg>

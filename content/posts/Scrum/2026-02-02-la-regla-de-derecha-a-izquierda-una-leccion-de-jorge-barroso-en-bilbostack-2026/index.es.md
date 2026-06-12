@@ -48,7 +48,7 @@ Siempre.
 
 Nada épico. Nada revolucionario. Solo sentido común… pero escrito y repetido hasta que todo el mundo lo interioriza.
 
-![La regla de derecha a izquierda](/images/regla-derecha-izquierda.png)
+![La regla de derecha a izquierda](prioridades.svg)
 
 ---
 
