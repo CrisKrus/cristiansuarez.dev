@@ -1,11 +1,12 @@
 ---
+title: "Frases"
 build:
   list: never
   render: always
 robotsNoIndex: true
 cascade:
   build:
-    list: never
+    list: local
     render: always
   params:
     robotsNoIndex: true
