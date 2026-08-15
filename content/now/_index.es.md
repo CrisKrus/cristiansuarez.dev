@@ -1,34 +1,33 @@
 ---
 title: "Ahora"
-date: 2025-12-07
+date: 2026-08-15
 ---
 
-Última actualización: **diciembre de 2025** (Tokio)
+Última actualización: **agosto de 2026** (Gran Canaria)
 
 ## 🌍 Dónde estoy
 
-Viviendo temporalmente en **Tokio, Japón**, trabajando en remoto y explorando la cultura local mientras equilibro horarios España–Japón.
+He vuelto a **Gran Canaria**, donde he vivido siempre. Desde aquí trabajo en remoto para **Lean Mind**.
 
 ## 💻 En qué estoy trabajando
 
-Trabajo principal en **Lean Mind**, con foco en refactorización, enfoques de producto y toma de decisiones estratégicas.
+En Lean Mind este año estoy ejerciendo muy poco como desarrollador. Mi foco está en ayudar a gestionar proyectos y en asumir responsabilidades de **COO / director de operaciones** internamente, además de acompañar como **co-CEO** el cambio y la nueva dirección de la empresa.
 
 ## 🧠 En qué estoy aprendiendo / profundizando
 
-- Transición desde ejecución técnica hacia **rol estratégico / CTO-like**.
-- Arquitectura limpia aplicada a contextos reales.
-- Automatización con **n8n, IA y asistentes conversacionales** para hacer la vida más sencilla.
+- Profundizando en la parte estratégica y en la transición de una mirada de **CTO** a una de **COO**.
+- IA y desarrollo agéntico: los uso a diario en el trabajo y sigo aprendiendo a aplicarlos de la forma más adecuada y útil posible.
 
 ## 🧪 Experimentos / proyectos que orbitan mi cabeza
 
-- **DriveSense (MVP en marcha)** — herramienta personal para gestión de vehículos, consumo de conbustible y mantenimientos.
-- Automatizaciones varias: finanzas, emails, resúmenes, flujos inteligentes con IA.
-- Cursando the power MBA.
+- **DriveZen** sigue funcionando.
+- Una aplicación de gráfico de relaciones que tengo desplegada.
+- Algunas herramientas internas, como una para controlar las horas y saber la dedicación de cada persona.
 
 ## ❤️ Vida personal
 
-- Volviendo a moverme y cuidando la espalda baja y el psoas (vengo de una lesión grave).
-- Descubriendo barrios pequeños, libros y cafés tranquilos donde trabajar.
+- Sigo cuidándome y moviéndome: he vuelto al gimnasio con sesiones de entrenamiento para estar más saludable.
+- Reencontrándome con la lectura, con varios libros en paralelo que voy leyendo poco a poco.
 
 ## 📝 Lo que NO estoy haciendo ahora mismo
 
