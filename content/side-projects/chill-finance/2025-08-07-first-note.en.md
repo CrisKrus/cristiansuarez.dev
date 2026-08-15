@@ -1,6 +1,6 @@
 ---
 title: "First note"
-date: 2025-01-01
+date: 2025-08-07
 ---
 
 Kickstarting The Chill Finance log!
