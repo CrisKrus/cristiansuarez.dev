@@ -7,11 +7,11 @@ Last update: **August 2026** (Gran Canaria)
 
 ## 🌍 Where I am
 
-I'm back in **Gran Canaria**, where I have lived my whole life. I work remotely for **Limai** from here.
+I'm back in **Gran Canaria**, where I have lived my whole life. I work remotely for **Lean Mind** from here.
 
 ## 💻 What I'm working on
 
-This year at Limai, I am doing very little development work. My focus is on helping manage projects and taking on **COO / operations director** responsibilities internally, while also supporting the company's change and new direction as **co-CEO**.
+This year at Lean Mind, I am doing very little development work. My focus is on helping manage projects and taking on **COO / operations director** responsibilities internally, while also supporting the company's change and new direction as **co-CEO**.
 
 ## 🧠 What I'm learning / deepening
 

@@ -7,11 +7,11 @@ date: 2026-08-15
 
 ## 🌍 Dónde estoy
 
-He vuelto a **Gran Canaria**, donde he vivido siempre. Desde aquí trabajo en remoto para **Limai**.
+He vuelto a **Gran Canaria**, donde he vivido siempre. Desde aquí trabajo en remoto para **Lean Mind**.
 
 ## 💻 En qué estoy trabajando
 
-En Limai este año estoy ejerciendo muy poco como desarrollador. Mi foco está en ayudar a gestionar proyectos y en asumir responsabilidades de **COO / director de operaciones** internamente, además de acompañar como **co-CEO** el cambio y la nueva dirección de la empresa.
+En Lean Mind este año estoy ejerciendo muy poco como desarrollador. Mi foco está en ayudar a gestionar proyectos y en asumir responsabilidades de **COO / director de operaciones** internamente, además de acompañar como **co-CEO** el cambio y la nueva dirección de la empresa.
 
 ## 🧠 En qué estoy aprendiendo / profundizando
 
