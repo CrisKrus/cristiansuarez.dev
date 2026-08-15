@@ -19,16 +19,16 @@ minify:
   disableXML: true
   minifyOutput: true
 
-languageCode: es
+locale: es
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
 languages:
   es:
-    languageName: Español
+    label: Español
     weight: 1
   en:
-    languageName: English
+    label: English
     weight: 2
 
 permalinks:

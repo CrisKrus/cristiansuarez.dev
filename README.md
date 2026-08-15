@@ -11,14 +11,24 @@ git clone git@github.com:CrisKrus/cristiansuarez.dev.git
 git submodule update --init --recursive
 ```
 
-## Lanzar Hugo en local con Docker
+## Trabajar con Hugo en Docker
+
+El proyecto fija Hugo Extended `0.164.0` en Docker tanto para desarrollo local
+como para el despliegue en GitHub Pages. No es necesario instalar Hugo en el
+equipo anfitrión.
+
+### Servidor local
 
 ```bash
-docker run --rm -it \
-  -p 1313:1313 \
-  -v "$(pwd)":/src \
-  docker.io/hugomods/hugo:debian-exts-0.152.2 \
-  server --bind 0.0.0.0
+docker compose up hugo
 ```
 
 La aplicación estará disponible en `http://localhost:1313/`
+
+### Generar el sitio de producción
+
+```bash
+docker compose run --rm hugo hugo --minify
+```
+
+La salida se genera en `public/`, que está excluido del control de versiones.
