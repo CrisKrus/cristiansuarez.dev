@@ -1,34 +1,33 @@
 ---
 title: "Now"
-date: 2025-12-07
+date: 2026-08-15
 ---
 
-Last update: **December 2025** (Tokyo)
+Last update: **August 2026** (Gran Canaria)
 
 ## 🌍 Where I am
 
-Temporarily living in **Tokyo, Japan**, working remotely and exploring the local culture while balancing Spain–Japan time zones.
+I'm back in **Gran Canaria**, where I have lived my whole life. I work remotely for **Limai** from here.
 
 ## 💻 What I'm working on
 
-Main role at **Lean Mind**, focusing on refactoring, product thinking, and strategic decision-making.
+This year at Limai, I am doing very little development work. My focus is on helping manage projects and taking on **COO / operations director** responsibilities internally, while also supporting the company's change and new direction as **co-CEO**.
 
 ## 🧠 What I'm learning / deepening
 
-- Moving from execution towards **a strategic / CTO-like path**.
-- Clean architecture applied to real contexts.
-- Automation using **n8n, AI and conversational assistants** to simplify workflows.
+- Going deeper into strategy and transitioning from a **CTO** perspective to a **COO** one.
+- AI and agentic development: I use them every day at work and keep learning how to apply them in the most useful and appropriate way.
 
 ## 🧪 Experiments / projects orbiting my head
 
-- **DriveSense (MVP in progress)** — personal tool for vehicle management, fuel consumption and maintenance.
-- Various automations: finances, emails, summaries, smart flows with AI.
-- Taking the power MBA course.
+- **DriveZen** is still up and running.
+- A relationship graph application that I have deployed.
+- A few internal tools, including one for tracking hours and understanding each person's allocation.
 
 ## ❤️ Personal life
 
-- Getting moving again and caring for my lower back and psoas (recovering from a serious injury).
-- Discovering small neighborhoods, books and quiet cafés to work from.
+- I am still taking care of myself and staying active: I have gone back to the gym with training sessions to be healthier.
+- Reconnecting with reading, with several books on the go that I pick up now and then.
 
 ## 📝 What I'm NOT doing right now
 
