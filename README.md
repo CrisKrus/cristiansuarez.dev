@@ -13,7 +13,12 @@ git submodule update --init --recursive
 
 ## Lanzar Hugo en local con Docker
 
-```cmd
-docker run --rm -it -p 1313:1313 -v $(pwd):/src klakegg/hugo:ext-alpine server
+```bash
+docker run --rm -it \
+  -p 1313:1313 \
+  -v "$(pwd)":/src \
+  docker.io/hugomods/hugo:debian-exts-0.152.2 \
+  server --bind 0.0.0.0
 ```
 
+La aplicación estará disponible en `http://localhost:1313/`
